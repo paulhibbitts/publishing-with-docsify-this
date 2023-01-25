@@ -141,7 +141,7 @@ _Figure 7. GitHub Desktop Mac (source: https://desktop.github.com)_
 
 GitHub Desktop
 Locally Store Git/GitHub Repositories
-Push and Pull Repository Changes
+**Push** and **Pull** Repository Changes
 
 ### Docsify-This + GitHub Markdown Files 
 
