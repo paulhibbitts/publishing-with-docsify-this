@@ -134,12 +134,12 @@ GitHub is an online Git service, providing point-and-click means to create and m
 
 In addition to supporting the hosting of Git repositories, online editing of repository content is also provided.
 
-#### GitHub Desktop
+### GitHub Desktop
 
 ![GitHub Desktop](images/github-desktop-screenshot-mac.png)
 _Figure 7. GitHub Desktop Mac (source: https://desktop.github.com)_
 
-Core GitHub Desktop Functionality  
+#### Core Functionality  
 * Locally Store Git/GitHub Repositories  
 * **Push** and **Pull** Repository Changes  
 
