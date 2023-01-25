@@ -118,9 +118,15 @@ Git is a free and open source distributed version control system,  originally cr
 
 Version control supports the management of changes, called revisions, to files… especially useful for pure text files.
 
+![Local Version Control](images/local.png)
+_Figure 5. Local Version Control (source: https://git-scm.com)_
+
 #### Collaboration
 
 As a distributed version control system, Git also support collaboration with multiple contributors.
+
+![Distributed Version Control](images/distributed.png)
+_Figure 6. Distributed Version Control (source: https://git-scm.com)_
 
 ### GitHub
 
@@ -131,7 +137,7 @@ In addition to supporting the hosting of Git repositories, online editing of rep
 #### GitHub Desktop
 
 ![GitHub Desktop](images/github-desktop-screenshot-mac.png)
-_Figure 5. GitHub Desktop Mac_
+_Figure 7. GitHub Desktop Mac (source: https://desktop.github.com)_
 
 GitHub Desktop
 Locally Store Git/GitHub Repositories
@@ -140,7 +146,7 @@ Push and Pull Repository Changes
 ### Docsify-This + GitHub Markdown Files 
 
 ![Docsify-This + GitHub Markdown Files](images/docsify-this-github.png)
-_Figure 6. Docsify-This + GitHub Markdown Files Workflow_
+_Figure 8. Docsify-This + GitHub Markdown Files Workflow_
 
 ## Additional Resources
 
