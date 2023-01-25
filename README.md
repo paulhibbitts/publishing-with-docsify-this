@@ -47,21 +47,21 @@ Docsify-This is an open source Web app, built using the Docsify Open Publishing 
 
 Being open source, you can even host your own Docsify-This instance!
 
-### Docsify-This Example Usage Scenarios
+### Example Usage Scenarios
 
 * Quickly turn publicly available Markdown files (incl. Open Educational Resources) into Web pages
 * Share GitHub hosted Markdown files as Web pages, with an optional 'Edit this Page' link
 * Reuse Markdown software documentation in other contexts
 * Seamlessly embed constraint-free Markdown/HTML content into an LMS
 
-### Docsify-This Web Page Builder
+### Web Page Builder
 
 To use the Docsify-This **Web Page Builder** enter the URL for an online Markdown file and tap the ‘View as Standalone Web Page’ button. The Markdown file will then  be rendered as a standalone Web page with it’s own URL that can then be copied and shared.
 
 ![Docsify-This Web Page Builder](images/docsify-this-web-page-builder.png)
 _Figure 1. Docsify-This Web Page Builder_
 
-### Example Docsify-This URL
+### Example URL
 
 ```html
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md
@@ -72,7 +72,7 @@ _Figure 2. Docsify-This Rendered Markdown File_
 
 Docsify-This rendered Web pages are also perfect for embedding, with the ability to visually style Docsify-This pages to the destination platform.
 
-### Docsify-This URL Editing
+### URL Editing
 
 You can also render other Markdown files in the same repository by directly editing the Docsify-This URL parameter **homepage**, for example:
 
@@ -80,7 +80,7 @@ You can also render other Markdown files in the same repository by directly edit
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=anotherfile.md
 ```
 
-### Docsify-This Web Page Styling
+### Web Page Styling
 
 [URL Parameters](https://docsify-this.net/#/?id=page-appearance-url-parameters) (any Markdown file)  
 For example, `font-family`, `font-size` and `link-color`  
