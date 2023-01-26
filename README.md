@@ -148,6 +148,8 @@ _Figure 8. GitHub Desktop Mac (source: https://desktop.github.com)_
 
 ### Docsify-This + GitHub Markdown Files 
 
+To fully leverage the benefits of version control, and potentially collaboration, host your Docsify-This Markdown pages within a GitHub repository and use GitHub Desktop to push/pull changes.
+
 ![Docsify-This + GitHub Markdown Files](images/docsify-this-github.png)  
 _Figure 9. Docsify-This + GitHub Markdown Files Workflow_
 
