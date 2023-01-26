@@ -132,12 +132,15 @@ _Figure 6. Distributed Version Control (source: https://git-scm.com)_
 
 GitHub is an online Git service, providing point-and-click means to create and manage Git repositories.
 
-In addition to supporting the hosting of Git repositories, online editing of repository content is also provided.
+In addition to supporting the hosting of Git repositories, online editing of repository content such as Markdown files (using the filename extension .md) is also provided.
+
+![GitHub Markdown File](images/github-markdown-file.png)
+_Figure 7. GitHub Markdown File_
 
 ### GitHub Desktop
 
 ![GitHub Desktop](images/github-desktop-screenshot-mac.png)
-_Figure 7. GitHub Desktop Mac (source: https://desktop.github.com)_
+_Figure 8. GitHub Desktop Mac (source: https://desktop.github.com)_
 
 #### Core Functionality  
 * Locally Store Git/GitHub Repositories  
@@ -146,7 +149,7 @@ _Figure 7. GitHub Desktop Mac (source: https://desktop.github.com)_
 ### Docsify-This + GitHub Markdown Files 
 
 ![Docsify-This + GitHub Markdown Files](images/docsify-this-github.png)
-_Figure 8. Docsify-This + GitHub Markdown Files Workflow_
+_Figure 9. Docsify-This + GitHub Markdown Files Workflow_
 
 ## Additional Resources
 
