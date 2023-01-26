@@ -138,13 +138,12 @@ In addition to supporting the hosting of Git repositories, online editing of rep
 _Figure 7. GitHub Markdown File_
 
 ### GitHub Desktop
+  
+* Locally Store Git/GitHub Repositories  
+* **Push** and **Pull** Repository Changes  
 
 ![GitHub Desktop](images/github-desktop-screenshot-mac.png)
 _Figure 8. GitHub Desktop Mac (source: https://desktop.github.com)_
-
-#### Core Functionality  
-* Locally Store Git/GitHub Repositories  
-* **Push** and **Pull** Repository Changes  
 
 ### Docsify-This + GitHub Markdown Files 
 
