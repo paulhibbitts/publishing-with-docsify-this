@@ -58,7 +58,7 @@ Being open source, you can even host your own Docsify-This instance!
 
 To use the Docsify-This **Web Page Builder** enter the URL for an online Markdown file and tap the ‘View as Standalone Web Page’ button. The Markdown file will then  be rendered as a standalone Web page with it’s own URL that can then be copied and shared.
 
-![Docsify-This Web Page Builder](images/docsify-this-web-page-builder.png)
+![Docsify-This Web Page Builder](images/docsify-this-web-page-builder.png)  
 _Figure 1. Docsify-This Web Page Builder_
 
 ### Example Docsify-This URL
@@ -67,7 +67,7 @@ _Figure 1. Docsify-This Web Page Builder_
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md
 ```
 
-![Docsify-This Rendered Markdown File](images/docsify-this-rendered-markdown-file.png)
+![Docsify-This Rendered Markdown File](images/docsify-this-rendered-markdown-file.png)  
 _Figure 2. Docsify-This Rendered Markdown File_
 
 Docsify-This rendered Web pages are also perfect for embedding, with the ability to visually style Docsify-This pages to the destination platform.
@@ -92,7 +92,7 @@ For example, `badge`, `button`, and `row` & `column`
 
 #### Example Docsify-This External URL 
 
-![Docsify-This Module](images/docsify-this-module.png)
+![Docsify-This Module](images/docsify-this-module.png)  
 _Figure 3. Docsify-This External URL (used as a Canvas LMS Module)_
 
 ```html
@@ -101,7 +101,7 @@ https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts
 
 #### Example Docsify-This iFrame HMTL
 
-![Docsify-This iFrame](images/docsify-this-iframe.png)
+![Docsify-This iFrame](images/docsify-this-iframe.png)  
 _Figure 4. Docsify-This iFrame (within the Canvas LMS Homepage)_
 _
 
@@ -135,7 +135,7 @@ GitHub is an online Git service, providing point-and-click means to create and m
 
 In addition to supporting the hosting of Git repositories, online editing of repository content such as Markdown files (using the filename extension .md) is also provided.
 
-![GitHub Markdown File](images/github-markdown-file.png)
+![GitHub Markdown File](images/github-markdown-file.png)  
 _Figure 7. GitHub Markdown File_
 
 ### GitHub Desktop
@@ -143,12 +143,12 @@ _Figure 7. GitHub Markdown File_
 * Locally Store Git/GitHub Repositories  
 * **Push** and **Pull** Repository Changes  
 
-![GitHub Desktop](images/github-desktop-screenshot-mac.png)
+![GitHub Desktop](images/github-desktop-screenshot-mac.png)  
 _Figure 8. GitHub Desktop Mac (source: https://desktop.github.com)_
 
 ### Docsify-This + GitHub Markdown Files 
 
-![Docsify-This + GitHub Markdown Files](images/docsify-this-github.png)
+![Docsify-This + GitHub Markdown Files](images/docsify-this-github.png)  
 _Figure 9. Docsify-This + GitHub Markdown Files Workflow_
 
 ## Additional Resources
