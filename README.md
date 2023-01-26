@@ -60,7 +60,7 @@ _Being open source, you can even host your own Docsify-This instance! No platfor
 
 To use the Docsify-This **Web Page Builder** enter the URL for an online Markdown file and tap the ‘View as Standalone Web Page’ button. The Markdown file will then  be rendered as a standalone Web page with it’s own URL that can then be copied and shared.
 
-![Docsify-This Web Page Builder](images/docsify-this-web-page-builder.png  ':class=image-75')  
+![Docsify-This Web Page Builder](images/docsify-this-web-page-builder.png ':class=image-75')  
 _Figure 1. Docsify-This Web Page Builder_
 
 ### Example Docsify-This URL
@@ -69,7 +69,7 @@ _Figure 1. Docsify-This Web Page Builder_
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md
 ```
 
-![Docsify-This Rendered Markdown File](images/docsify-this-rendered-markdown-file.png)  
+![Docsify-This Rendered Markdown File](images/docsify-this-rendered-markdown-file.png ':class=image-75')  
 _Figure 2. Docsify-This Rendered Markdown File_
 
 Docsify-This rendered Web pages are also perfect for embedding, with the ability to visually style Docsify-This pages to the destination platform.
@@ -94,7 +94,7 @@ For example, `badge`, `button`, and `row` & `column`
 
 #### Example Docsify-This External URL 
 
-![Docsify-This Module](images/docsify-this-module.png)  
+![Docsify-This Module](images/docsify-this-module.png ':class=image-75')  
 _Figure 3. Docsify-This External URL (used as a Canvas LMS Module)_
 
 ```html
@@ -103,7 +103,7 @@ https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts
 
 #### Example Docsify-This iFrame HMTL
 
-![Docsify-This iFrame](images/docsify-this-iframe.png)  
+![Docsify-This iFrame](images/docsify-this-iframe.png ':class=image-75')  
 _Figure 4. Docsify-This iFrame (within the Canvas LMS Homepage)_
 _
 
@@ -121,7 +121,7 @@ Git is a free and open source distributed version control system,  originally cr
 
 Version control supports the management of changes, called revisions, to files… especially useful for pure text files.
 
-![Local Version Control](images/local.png)  
+![Local Version Control](images/local.png ':class=image-75')  
 _Figure 5. Local Version Control (source: https://git-scm.com)_
 
 #### Collaboration
@@ -137,7 +137,7 @@ GitHub is an online Git service, providing point-and-click means to create and m
 
 In addition to supporting the hosting of Git repositories, online editing of repository content such as Markdown files (using the filename extension .md) is also provided.
 
-![GitHub Markdown File](images/github-markdown-file.png)  
+![GitHub Markdown File](images/github-markdown-file.png ':class=image-75')  
 _Figure 7. GitHub Markdown File_
 
 ### GitHub Desktop
@@ -145,14 +145,14 @@ _Figure 7. GitHub Markdown File_
 * Locally Store Git/GitHub Repositories  
 * **Push** and **Pull** Repository Changes  
 
-![GitHub Desktop](images/github-desktop-screenshot-mac.png)  
+![GitHub Desktop](images/github-desktop-screenshot-mac.png ':class=image-75')  
 _Figure 8. GitHub Desktop Mac (source: https://desktop.github.com)_
 
 ### Docsify-This + GitHub Markdown Files 
 
 To fully leverage the benefits of version control, and potentially collaboration, store your Docsify-This Markdown pages within a GitHub repository and use GitHub Desktop to push/pull changes
 
-![Docsify-This + GitHub Markdown Files](images/docsify-this-github.png)  
+![Docsify-This + GitHub Markdown Files](images/docsify-this-github.png ':class=image-75')  
 _Figure 9. Docsify-This + GitHub Markdown Files Workflow_
 
 ## Additional Resources
