@@ -1,4 +1,4 @@
-![](images/pawel-czerwinski-EIfU0IUqZw8-unsplash.jpg ':class=header-image-full-width')
+![](images/pawel-czerwinski-EIfU0IUqZw8-unsplash.jpg ':class=banner-image')
 
 # Publishing with Docsify-This
 
