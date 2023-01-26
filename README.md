@@ -126,7 +126,7 @@ _Figure 5. Local Version Control (source: https://git-scm.com)_
 
 As a distributed version control system, Git also support collaboration with multiple contributors.
 
-![Distributed Version Control](images/distributed.png)
+![Distributed Version Control](images/distributed.png)  
 _Figure 6. Distributed Version Control (source: https://git-scm.com)_
 
 ### GitHub
