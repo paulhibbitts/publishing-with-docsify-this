@@ -102,7 +102,8 @@ https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts
 #### Example Docsify-This iFrame HMTL
 
 ![Docsify-This iFrame](images/docsify-this-iframe.png)
-_Figure 4. Docsify-This iFrame_
+_Figure 4. Docsify-This iFrame (within the Canvas LMS Homepage)_
+_
 
 ```html
 <p><iframe style="overflow: hidden; border: 0px #ffffff none; background: #ffffff;" src="https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages-demo/main&amp;homepage=home.md&amp;font-family=Lato%20Extended,%20Lato,Helvetica%20Neue,%20Helvetica,%20Arial,%20sans-serif&font-size=1&link-color=0374B5&hide-credits=true" width="800px" height="1450px" allowfullscreen="allowfullscreen"></iframe></p>
@@ -118,7 +119,7 @@ Git is a free and open source distributed version control system,  originally cr
 
 Version control supports the management of changes, called revisions, to files… especially useful for pure text files.
 
-![Local Version Control](images/local.png)
+![Local Version Control](images/local.png)  
 _Figure 5. Local Version Control (source: https://git-scm.com)_
 
 #### Collaboration
