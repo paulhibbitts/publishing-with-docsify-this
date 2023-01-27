@@ -1,6 +1,6 @@
 ![](images/pawel-czerwinski-EIfU0IUqZw8-unsplash.jpg ':class=banner-image')
 
-<h1> Markdown Publishing with Docsify-This </h1>
+# Markdown Publishing with Docsify-This
 
 An introduction to Markdown publishing using the open source [Docsify-This.net](https://docsify-this.net/) project.
 
