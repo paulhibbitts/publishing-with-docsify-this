@@ -121,7 +121,7 @@ Git is a free and open source distributed version control system,  originally cr
 
 Version control supports the management of changes, called revisions, to files… especially useful for pure text files.
 
-![Local Version Control](images/local.png ':class=image-75-border')  
+![Local Version Control](images/local.png ':class=image-75')  
 _Figure 5. Local Version Control (source: https://git-scm.com)_
 
 #### Collaboration
