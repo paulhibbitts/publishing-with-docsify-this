@@ -98,7 +98,7 @@ For example, `badge`, `button`, and `row` & `column`
 _Figure 3. Docsify-This External URL (used as a Canvas LMS Module)_
 
 ```html
-https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363/main/docs/222&homepage=week-01.md&toc-narrow=true&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica, Arial,sans-serif&font-size=1&hide-credits=true
+https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363/main/docs/222&homepage=week-01.md&toc-narrow=true&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&hide-credits=true
 ```
 
 #### Example Docsify-This iFrame HMTL
@@ -108,7 +108,7 @@ _Figure 4. Docsify-This iFrame (within the Canvas LMS Homepage)_
 _
 
 ```html
-<p><iframe style="overflow: hidden; border: 0px #ffffff none; background: #ffffff;" src="https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages-demo/main&amp;homepage=home.md&amp;font-family=Lato%20Extended,%20Lato,Helvetica%20Neue,%20Helvetica,%20Arial,%20sans-serif&font-size=1&link-color=0374B5&hide-credits=true" width="800px" height="1450px" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe style="overflow: hidden; border: 0px #ffffff none; background: #ffffff;" src="https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages-demo/main&amp;homepage=home.md&amp;font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&link-color=0374B5&hide-credits=true" width="800px" height="1450px" allowfullscreen="allowfullscreen"></iframe></p>
 ```
 
 ## Git and GitHub
