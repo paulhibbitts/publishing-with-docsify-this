@@ -51,10 +51,10 @@ _Being open source, you can even host your own Docsify-This instance! No platfor
 
 ### Example Docsify-This Usage Scenarios
 
-* Quickly turn publicly available Markdown files (incl. Open Educational Resources) into Web pages
-* Share GitHub hosted Markdown files as Web pages, with an optional 'Edit this Page' link
-* Reuse Markdown software documentation in other contexts
-* Seamlessly embed constraint-free Markdown/HTML content into an LMS
+* Display your Markdown files as standalone web pages, with no website setup or build process required
+* Share existing GitHub-hosted Markdown files as standalone web pages, with an optional 'Edit this Page' link
+* Seamlessly embed constraint-free Markdown/HTML, which you have authored, into other platforms (e.g. LMS or CMS)
+* Reuse existing Markdown content by seamlessly embedding it within other platforms (e.g. LMS or CMS)
 
 ### Docsify-This Web Page Builder
 
