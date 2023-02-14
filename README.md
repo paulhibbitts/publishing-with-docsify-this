@@ -87,10 +87,10 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 ### Docsify-This Web Page Styling
 
 [URL Parameters](https://docsify-this.net/#/?id=page-appearance-url-parameters) (any Markdown file)  
-For example, `font-family`, `font-size` and `link-color`  
+For example, `font-family`, `font-size`, `link-color` and `line-height`  
 
 [Markdown CSS Classes](https://docsify-this.net/#/?id=supported-markdown-css-classes)  
-For example, `badge`, `button`, and `row` & `column`
+For example, `badge`, `banner-image`, `button`, and `row` & `column`
 
 ### Embedding Docsify-This Pages
 
