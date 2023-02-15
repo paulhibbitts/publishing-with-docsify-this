@@ -97,7 +97,7 @@ For example, `badge`, `banner-image`, `button`, and `row` & `column`
 #### Example Docsify-This External URL 
 
 ![Docsify-This Module](images/docsify-this-module.png ':class=image-75-border')  
-_Figure 3. Docsify-This External URL (used as a Canvas LMS Module)_
+_Figure 3. Docsify-This External URL (used as a Canvas LMS Module), for example https://canvas.sfu.ca/courses/76289/modules/items/2816273_
 
 ```html
 https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363/main/docs/222&homepage=week-01.md&toc-narrow=true&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&hide-credits=true
@@ -106,8 +106,7 @@ https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts
 #### Example Docsify-This iFrame HMTL
 
 ![Docsify-This iFrame](images/docsify-this-iframe.png ':class=image-75-border')  
-_Figure 4. Docsify-This iFrame (within the Canvas LMS Homepage)_
-_
+_Figure 4. Docsify-This iFrame (within the Canvas LMS Homepage), for example https://canvas.sfu.ca/courses/76289_
 
 ```html
 <p><iframe style="overflow: hidden; border: 0px #ffffff none; background: #ffffff;" src="https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages-demo/main&amp;homepage=home.md&amp;font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&link-color=0374B5&hide-credits=true" width="800px" height="1450px" allowfullscreen="allowfullscreen"></iframe></p>
