@@ -15,6 +15,7 @@ Markdown is a syntax to format the display of content stored as plain text - sim
 * Text only format (perfect for version control)
 * Separation of content vs. presentation
 * Human-readable (i.e. more than HTML)
+* Can also contain HTML snippets
 
 ### Markdown Examples
 
