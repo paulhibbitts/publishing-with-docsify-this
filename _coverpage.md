@@ -5,4 +5,4 @@
 > An introduction to Markdown publishing with the open source Docsify&#8209;This project.
 
 [Read the Guide](#markdown-publishing-with-docsify8209this)
-[Docsify-This](https://docsify-this.net)
+[Try out Docsify-This](https://docsify-this.net)
