@@ -95,10 +95,19 @@ For example, `badge`, `banner-image`, `button`, and `row` & `column`
 
 ### Embedding Docsify-This Pages
 
+#### Example Docsify-This Redirect Tool URL 
+
+![Docsify-This Module](images/docsify-this-page.png ':class=image-75-border')  
+_Figure 3. Docsify-This External URL (used with the Redirect Tool), for example https://canvas.sfu.ca/courses/76289/external_tools/36154_
+
+```html
+https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363/main/docs/222&homepage=resources.md&edit-link=https://github.com/paulhibbitts/cmpt-363-222-pages-mirror/blob/main/resources.md&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&hide-credits=true
+```
+
 #### Example Docsify-This External URL 
 
 ![Docsify-This Module](images/docsify-this-module.png ':class=image-75-border')  
-_Figure 3. Docsify-This External URL (used as a Canvas LMS Module), for example https://canvas.sfu.ca/courses/76289/modules/items/2816273_
+_Figure 4. Docsify-This External URL (used as a Canvas LMS Module), for example https://canvas.sfu.ca/courses/76289/modules/items/2816273_
 
 ```html
 https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363/main/docs/222&homepage=week-01.md&toc-narrow=true&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&hide-credits=true
@@ -107,7 +116,7 @@ https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts
 #### Example Docsify-This iFrame HMTL
 
 ![Docsify-This iFrame](images/docsify-this-iframe.png ':class=image-75-border')  
-_Figure 4. Docsify-This iFrame (within the Canvas LMS Homepage), for example https://canvas.sfu.ca/courses/76289_
+_Figure 5. Docsify-This iFrame (within the Canvas LMS Homepage), for example https://canvas.sfu.ca/courses/76289_
 
 ```html
 <p><iframe style="overflow: hidden; border: 0px #ffffff none; background: #ffffff;" src="https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages-demo/main&amp;homepage=home.md&amp;font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&link-color=0374B5&hide-credits=true" width="800px" height="1450px" allowfullscreen="allowfullscreen"></iframe></p>
@@ -124,14 +133,14 @@ Git is a free and open source distributed version control system,  originally cr
 Version control supports the management of changes, called revisions, to files… especially useful for pure text files.
 
 ![Local Version Control](images/local.png ':class=image-75')  
-_Figure 5. Local Version Control (source: https://git-scm.com)_
+_Figure 6. Local Version Control (source: https://git-scm.com)_
 
 #### Collaboration
 
 As a distributed version control system, Git also support collaboration with multiple contributors.
 
 ![Distributed Version Control](images/distributed.png ':class=image-75-border')  
-_Figure 6. Distributed Version Control (source: https://git-scm.com)_
+_Figure 7. Distributed Version Control (source: https://git-scm.com)_
 
 ### GitHub
 
@@ -140,7 +149,7 @@ GitHub is an online Git service, providing point-and-click means to create and m
 In addition to supporting the hosting of Git repositories, online editing of repository content such as Markdown files (using the filename extension .md) is also provided.
 
 ![GitHub Markdown File](images/github-markdown-file.png ':class=image-75-border')  
-_Figure 7. GitHub Markdown File_
+_Figure 8. GitHub Markdown File_
 
 ### GitHub Desktop
   
@@ -148,14 +157,14 @@ _Figure 7. GitHub Markdown File_
 * **Push** and **Pull** Repository Changes  
 
 ![GitHub Desktop](images/github-desktop-screenshot-mac.png ':class=image-75-border')  
-_Figure 8. GitHub Desktop Mac (source: https://desktop.github.com)_
+_Figure 9. GitHub Desktop Mac (source: https://desktop.github.com)_
 
 ### Docsify-This + GitHub Markdown Files 
 
 To fully leverage the benefits of version control, and potentially collaboration, store your Docsify-This Markdown pages within a GitHub repository and use GitHub Desktop to push/pull changes
 
 ![Docsify-This + GitHub Markdown Files](images/docsify-this-github.png ':class=image-75-border')  
-_Figure 9. Docsify-This + GitHub Markdown Files Workflow_
+_Figure 10. Docsify-This + GitHub Markdown Files Workflow_
 
 ## Additional Resources
 
