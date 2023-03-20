@@ -95,14 +95,42 @@ For example, `font-family`, `font-size`, `link-color` and `line-height`
 #### Markdown CSS Classes
 
 [Markdown CSS Classes](https://docsify-this.net/#/?id=supported-markdown-css-classes)  
-For example, `badge`, `banner-image`, `button`, and `row` & `column`
+For example, `banner-image`, `button`, and `image-75/image-50/image-25`
+
+`[Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')`
 
 #### HTML Snippets
 
-As supported by standard Markdown, HTML snippets can also be included with Markdown, for example:  
+As supported by standard Markdown, HTML snippets can also be included (and mixed) within Markdown , for example:  
 
 ```html
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/">The Art of Guerrilla Usability Testing | UX Booth</a>
+<div class="row">
+<div class="column">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+</div>
+<div class="column">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+</div>
+</div>
+```
+
+```html
+<div class="row">
+<div class="column">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+</div>
+<div class="column">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+</div>
+</div>
 ```
 
 ### Embedding Docsify-This Pages
