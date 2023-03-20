@@ -95,9 +95,11 @@ For example, `font-family`, `font-size`, `link-color` and `line-height`
 #### Markdown CSS Classes
 
 [Markdown CSS Classes](https://docsify-this.net/#/?id=supported-markdown-css-classes)  
-For example, `banner-image`, `button`, and `image-75/image-50/image-25`
+For example, `banner-image`, `button`, and `image-75/image-50/image-25`  
 
-`[Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')`
+`![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')`  
+
+`[Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')`  
 
 #### HTML Snippets
 
