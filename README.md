@@ -87,13 +87,17 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 ### Docsify-This Web Page Styling
 
+#### URL Parameters
+
 [URL Parameters](https://docsify-this.net/#/?id=page-appearance-url-parameters) (any Markdown file)  
 For example, `font-family`, `font-size`, `link-color` and `line-height`  
+
+#### Markdown CSS Classes
 
 [Markdown CSS Classes](https://docsify-this.net/#/?id=supported-markdown-css-classes)  
 For example, `badge`, `banner-image`, `button`, and `row` & `column`
 
-### Using HTML Snippets
+#### HTML Snippets
 
 As supported by standard Markdown, HTML snippets can also be included with Markdown, for example:  
 
