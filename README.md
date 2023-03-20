@@ -204,6 +204,12 @@ _Figure 10. Docsify-This + GitHub Markdown Files Workflow_
 ![Docsify-This + Webserver Markdown Files_](images/docsify-this-webserver.png ':class=image-75-border')  
 _Figure 11. Docsify-This + Webserver Markdown Files_
 
+### Desktop Text Editors
+
+Once your Docsify-This Markdown files are being synced to your desktop via GitHub Desktop you can then use the text editor of your choice, such as VSCode, Pulsar Beta (was Atom.io), Typora etc.  
+
+VSCode can also be used alone to both sync and editing files.
+
 ## Additional Resources
 
 * Markdown Format
