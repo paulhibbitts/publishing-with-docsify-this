@@ -85,7 +85,7 @@ You can also render other Markdown files in the same repository by directly edit
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=anotherfile.md
 ```
 
-### Docsify-This Web Page Styling
+### Docsify-This Web Page Appearance
 
 #### URL Parameters
 
