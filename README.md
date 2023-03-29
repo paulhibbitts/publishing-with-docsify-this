@@ -228,20 +228,18 @@ _Figure 9. GitHub Desktop Mac (source: https://desktop.github.com)_
 
 To fully leverage the benefits of version control, and potentially collaboration, store your Docsify-This Markdown pages within a GitHub repository and use GitHub Desktop to push/pull changes
 
-### Using GitHub Desktop
+### Setting up GitHub Desktop
 
 1. Install GitHub Desktop
 1. Enter your GitHub credentials
 1. On GitHub Repository page, tap **< > Code** and then choose **Open with GitHub Desktop**
-1. Choose the location for your cloned repository
-1. Edit local files of the cloned repository
-1. Review changes in GitHub Desktop, and commit message, and tap the **Commit** button
+1. Choose the location for your cloned repository and tap the **Clone** button
 
 ### Desktop Text Editors
 
-Once your Docsify-This Markdown files are being synced to your desktop via GitHub Desktop you can then use the text editor of your choice, such as VSCode, Pulsar Beta (was Atom.io), Typora etc.  
+Once your Docsify-This Markdown files are synced (i.e. cloned) to your desktop via GitHub Desktop you can then use the text editor of your choice, such as VSCode, Pulsar Beta (was Atom.io), Typora etc.
 
-VSCode can also be used alone to both sync and editing files.
+Using GitHub Desktop you can preview any changes and then commit those changes back to the repository. VSCode can also be used alone to both sync and editing files.
 
 ![Docsify-This + GitHub Markdown Files](images/docsify-this-github.png ':class=image-75-border')  
 _Figure 10. Docsify-This + GitHub Markdown Files Workflow_
