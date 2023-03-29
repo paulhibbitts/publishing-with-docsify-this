@@ -230,7 +230,7 @@ To fully leverage the benefits of version control, and potentially collaboration
 
 ### Setting up GitHub Desktop
 
-1. Install GitHub Desktop
+1. Install GitHub Desktop (https://desktop.github.com)
 1. Enter your GitHub credentials as prompted
 1. Go to a GitHub repository web page, tap **< > Code** and then choose **Open with GitHub Desktop**
 1. Choose the location for your cloned repository and tap the **Clone** button
