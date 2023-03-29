@@ -195,7 +195,7 @@ Git is a free and open source distributed version control system,  originally cr
 
 #### Version Control
 
-Version control supports the management of changes, called revisions, to files… especially useful for pure text files.
+Version control supports the management of changes, called revisions, to files... especially useful for pure text files such as those used by Docsify-This.
 
 ![Local Version Control](images/local.png ':class=image-75')  
 _Figure 6. Local Version Control (source: https://git-scm.com)_
@@ -223,6 +223,8 @@ _Figure 8. GitHub Markdown File_
 
 ![GitHub Desktop](images/github-desktop-screenshot-mac.png ':class=image-75-border')  
 _Figure 9. GitHub Desktop Mac (source: https://desktop.github.com)_
+
+With GitHub Desktop you can locally 'clone' a repository to your desktop, edit files with your preferred text editor, and then 'push' changes back to that repository. To learn the basics of GitHub Desktop check out [Getting started with GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop).
 
 ### Docsify-This + GitHub Markdown Files 
 
