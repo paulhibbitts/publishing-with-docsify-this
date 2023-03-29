@@ -259,3 +259,4 @@ _Figure 11. Docsify-This + Webserver Markdown Files_
 * GitHub Desktop
   * [GitHub Desktop App](https://desktop.github.com/)
   * [An Introduction to Version Control Using GitHub Desktop](http://programminghistorian.org/en/lessons/retired/getting-started-with-github-desktop)
+    * [Getting Started with Git and GitHub Desktop](https://www.codecademy.com/article/what-is-git-and-github-desktop)
