@@ -224,11 +224,18 @@ _Figure 8. GitHub Markdown File_
 ![GitHub Desktop](images/github-desktop-screenshot-mac.png ':class=image-75-border')  
 _Figure 9. GitHub Desktop Mac (source: https://desktop.github.com)_
 
-With GitHub Desktop you can locally 'clone' a repository to your desktop, edit files with your preferred text editor, and then 'push' changes back to that repository. To learn the basics of GitHub Desktop check out [Getting started with GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop).
-
 ### Docsify-This + GitHub Markdown Files 
 
 To fully leverage the benefits of version control, and potentially collaboration, store your Docsify-This Markdown pages within a GitHub repository and use GitHub Desktop to push/pull changes
+
+### Using GitHub Desktop
+
+1. Install GitHub Desktop
+1. Enter your GitHub credentials
+1. On GitHub Repository page, tap **< > Code** and then choose **Open with GitHub Desktop**
+1. Choose the location for your cloned repository
+1. Edit and save local files of the cloned repository
+1. Review changes in GitHub Desktop, and commit message, and tap the **Commit** button
 
 ![Docsify-This + GitHub Markdown Files](images/docsify-this-github.png ':class=image-75-border')  
 _Figure 10. Docsify-This + GitHub Markdown Files Workflow_
