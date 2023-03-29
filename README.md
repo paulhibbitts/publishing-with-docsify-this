@@ -234,20 +234,20 @@ To fully leverage the benefits of version control, and potentially collaboration
 1. Enter your GitHub credentials
 1. On GitHub Repository page, tap **< > Code** and then choose **Open with GitHub Desktop**
 1. Choose the location for your cloned repository
-1. Edit and save local files of the cloned repository
+1. Edit local files of the cloned repository
 1. Review changes in GitHub Desktop, and commit message, and tap the **Commit** button
-
-![Docsify-This + GitHub Markdown Files](images/docsify-this-github.png ':class=image-75-border')  
-_Figure 10. Docsify-This + GitHub Markdown Files Workflow_
-
-![Docsify-This + Webserver Markdown Files_](images/docsify-this-webserver.png ':class=image-75-border')  
-_Figure 11. Docsify-This + Webserver Markdown Files_
 
 ### Desktop Text Editors
 
 Once your Docsify-This Markdown files are being synced to your desktop via GitHub Desktop you can then use the text editor of your choice, such as VSCode, Pulsar Beta (was Atom.io), Typora etc.  
 
 VSCode can also be used alone to both sync and editing files.
+
+![Docsify-This + GitHub Markdown Files](images/docsify-this-github.png ':class=image-75-border')  
+_Figure 10. Docsify-This + GitHub Markdown Files Workflow_
+
+![Docsify-This + Webserver Markdown Files_](images/docsify-this-webserver.png ':class=image-75-border')  
+_Figure 11. Docsify-This + Webserver Markdown Files_
 
 ## Additional Resources
 
