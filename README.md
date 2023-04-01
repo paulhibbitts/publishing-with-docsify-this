@@ -63,7 +63,7 @@ _Being open source, you can even host your own Docsify-This instance! No platfor
 
 To use the Docsify-This **Web Page Builder** enter the URL for an online Markdown file and tap the ‘View as Standalone Web Page’ button. The Markdown file will then  be rendered as a standalone Web page with it’s own URL that can then be copied and shared.
 
-![Docsify-This Web Page Builder](images/docsify-this-web-page-builder.png ':class=image-75-border')  
+![Docsify-This Web Page Builder](images/docsify-this-web-page-builder.jpg ':class=image-75-border')  
 _Figure 1. Docsify-This Web Page Builder_
 
 ### Example Docsify-This URL
@@ -72,7 +72,7 @@ _Figure 1. Docsify-This Web Page Builder_
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md
 ```
 
-![Docsify-This Rendered Markdown File](images/docsify-this-rendered-markdown-file.png ':class=image-75-border')  
+![Docsify-This Rendered Markdown File](images/docsify-this-rendered-markdown-file.jpg ':class=image-75-border')  
 _Figure 2. Docsify-This Rendered Markdown File_
 
 Docsify-This rendered Web pages are also perfect for embedding, with the ability to visually style Docsify-This pages to the destination platform.
@@ -162,7 +162,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 #### Example Docsify-This Redirect Tool URL 
 
-![Docsify-This Module](images/docsify-this-page.png ':class=image-75-border')  
+![Docsify-This Module](images/docsify-this-page.jpg ':class=image-75-border')  
 _Figure 3. Docsify-This External URL (used with the Redirect Tool), for example https://canvas.sfu.ca/courses/76289/external_tools/36154_
 
 ```html
@@ -171,7 +171,7 @@ url=https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhib
 
 #### Example Docsify-This External URL 
 
-![Docsify-This Module](images/docsify-this-module.png ':class=image-75-border')  
+![Docsify-This Module](images/docsify-this-module.jpg ':class=image-75-border')  
 _Figure 4. Docsify-This External URL (used as a Canvas LMS Module), for example https://canvas.sfu.ca/courses/76289/modules/items/2816273_
 
 ```html
@@ -180,7 +180,7 @@ https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts
 
 #### Example Docsify-This iFrame HMTL
 
-![Docsify-This iFrame](images/docsify-this-iframe.png ':class=image-75-border')  
+![Docsify-This iFrame](images/docsify-this-iframe.jpg ':class=image-75-border')  
 _Figure 5. Docsify-This iFrame (within the Canvas LMS Homepage), for example https://canvas.sfu.ca/courses/76289_
 
 ```html
@@ -213,7 +213,7 @@ GitHub is an online Git service, providing point-and-click means to create and m
 
 In addition to supporting the hosting of Git repositories, online editing of repository content such as Markdown files (using the filename extension .md) is also provided.
 
-![GitHub Markdown File](images/github-markdown-file.png ':class=image-75-border')  
+![GitHub Markdown File](images/github-markdown-file.jpg ':class=image-75-border')  
 _Figure 8. GitHub Markdown File_
 
 ### GitHub Desktop
@@ -221,7 +221,7 @@ _Figure 8. GitHub Markdown File_
 * Locally Store Git/GitHub Repositories  
 * **Push** and **Pull** Repository Changes  
 
-![GitHub Desktop](images/github-desktop-screenshot-mac.png ':class=image-75-border')  
+![GitHub Desktop](images/github-desktop-screenshot-mac.jpg ':class=image-75-border')  
 _Figure 9. GitHub Desktop Mac (source: https://desktop.github.com)_
 
 ### Docsify-This + GitHub Markdown Files 
@@ -241,10 +241,10 @@ Once your Docsify-This Markdown files are synced (i.e. cloned) to your desktop v
 
 Using GitHub Desktop you can preview any changes and then commit those changes back to the repository. VSCode can also be used alone to both sync and editing files.
 
-![Docsify-This + GitHub Markdown Files](images/docsify-this-github.png ':class=image-75-border')  
+![Docsify-This + GitHub Markdown Files](images/docsify-this-github.jpg ':class=image-75-border')  
 _Figure 10. Docsify-This + GitHub Markdown Files Workflow_
 
-![Docsify-This + Webserver Markdown Files_](images/docsify-this-webserver.png ':class=image-75-border')  
+![Docsify-This + Webserver Markdown Files_](images/docsify-this-webserver.jpg ':class=image-75-border')  
 _Figure 11. Docsify-This + Webserver Markdown Files_
 
 ## Additional Resources
