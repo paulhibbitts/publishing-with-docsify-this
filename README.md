@@ -89,8 +89,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 #### URL Parameters
 
-[URL Parameters](https://docsify-this.net/#/?id=page-appearance-url-parameters) (any Markdown file)  
-For example, **font-family**, **font-size**, **link-color** and **line-height**   
+The visual appearance of any Markdown file displayed by Docsify-This can be altered by using the provided set of [URL Parameters](https://docsify-this.net/#/?id=page-appearance-url-parameters). For example, **font-family**, **font-size**, **link-color** and **line-height**   
 
 ```
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&font-family=Open%20Sans,sans-serif
@@ -98,8 +97,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 #### Markdown CSS Classes
 
-[Markdown CSS Classes](https://docsify-this.net/#/?id=supported-markdown-css-classes)  
-For example, **banner-image**, **button**, and **image-75/image-50/image-25**  
+If you can edit the Markdown file that is displayed by Docsify-This the visual apprarahce can be further altered by using a set of provided [Markdown CSS Classes](https://docsify-this.net/#/?id=supported-markdown-css-classes). For example, **banner-image**, **button**, and **image-75/image-50/image-25**  
 
 ```
 ![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
