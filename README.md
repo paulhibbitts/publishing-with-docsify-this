@@ -158,6 +158,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ### Embedding Docsify-This Pages
 
+#### Example Docsify-This iFrame HMTL
+
+You can embed Docsify-This web pages using iFrames in almost any platform. URL parameters can also be used to match each destination platform better visually.
+
+![Docsify-This iFrame](images/docsify-this-iframe.jpg ':class=image-75-border')  
+_Figure 5. Docsify-This iFrame (within the Canvas LMS Homepage), for example https://canvas.sfu.ca/courses/76289_
+
+```html
+<p><iframe style="overflow: hidden; border: 0px #ffffff none; margin-top: -26px; background: #ffffff;" src="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages/main&homepage=home.md&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&hide-credits=true" width="800px" height="950px" allowfullscreen="allowfullscreen"></iframe></p>
+```
+
+Many LMSs, including Canvas and Moodle, have the ability to link external web pages to their course navigation menus. For example, with the Canvas LMS you would use the [Redirect Tool](https://help.canvas.yale.edu/m/55452/l/914676-creating-a-custom-link-in-your-course-navigation-using-the-redirect-tool) to display Docsify-This web pages.
+
 #### Example Docsify-This Redirect Tool URL 
 
 ![Docsify-This Module](images/docsify-this-page.jpg ':class=image-75-border')  
@@ -169,20 +182,13 @@ url=https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhib
 
 #### Example Docsify-This External URL 
 
+With the CanvasLMS it is also possible to use an [external web page as content within a course Module](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-add-an-external-URL-as-a-module-item/ta-p/967).
+
 ![Docsify-This Module](images/docsify-this-module.jpg ':class=image-75-border')  
 _Figure 4. Docsify-This External URL (used as a Canvas LMS Module), for example https://canvas.sfu.ca/courses/76289/modules/items/2816273_
 
 ```html
 https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages/main&homepage=week-01.md&toc-narrow=true&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&hide-credits=true
-```
-
-#### Example Docsify-This iFrame HMTL
-
-![Docsify-This iFrame](images/docsify-this-iframe.jpg ':class=image-75-border')  
-_Figure 5. Docsify-This iFrame (within the Canvas LMS Homepage), for example https://canvas.sfu.ca/courses/76289_
-
-```html
-<p><iframe style="overflow: hidden; border: 0px #ffffff none; margin-top: -26px; background: #ffffff;" src="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages/main&homepage=home.md&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&hide-credits=true" width="800px" height="950px" allowfullscreen="allowfullscreen"></iframe></p>
 ```
 
 ## Git and GitHub
