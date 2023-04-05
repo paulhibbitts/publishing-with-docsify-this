@@ -224,9 +224,9 @@ _Figure 8. GitHub Markdown File_
 ![GitHub Desktop](images/github-desktop-screenshot-mac.jpg ':class=image-75-border')  
 _Figure 9. GitHub Desktop Mac (source: https://desktop.github.com)_
 
-### Docsify-This + GitHub Markdown Files 
+### Docsify-This + GitHub or Codeberg Markdown Files 
 
-To fully leverage the benefits of version control, and potentially collaboration, store your Docsify-This Markdown pages within a GitHub repository and optionally use GitHub Desktop to push/pull changes
+To fully leverage the benefits of version control, and potentially collaboration using an optional "Edit this Page" link, store your Docsify-This Markdown pages within a GitHub or Codeberg repository and optionally use an app such as GitHub Desktop to push/pull changes to your desktop.
 
 ### Setting up GitHub Desktop
 
