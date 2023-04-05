@@ -48,7 +48,7 @@ Tip: To ensure a new paragraph after text in markdown, put two spaces after the 
 
 [Docsify-This](https://github.com/hibbitts-design/docsify-this) is an open source Web app, built using the [Docsify Open Publishing Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit), that can quickly display online Markdown files as web pages (i.e. no file uploads or build processes).   
 
-_Being open source, you can even host your own Docsify-This instance! No platform lock-in here._
+_Being open source, you can even host your own Docsify-This instance, with the possibility of even a custom domain! No platform lock-in here._
 
 ### Example Docsify-This Usage Scenarios
 
