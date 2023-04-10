@@ -252,7 +252,10 @@ _Figure 11. Docsify-This + Webserver Markdown Files_
 * Markdown Format
   * [Markdown Guide](http://markdownguide.org)
   * [Markdown Cheatsheet](http://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* Markdown Editors
+* Creating and Editing Markdown on GitHub
+  * [Quickstart for writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+  * [Authoring With Markdown](https://ucsbcarpentry.github.io/2022-01-31-ucsb-webpub-online/02-markdown/)
+* Markdown Desktop Editors
   * [VSCode](https://code.visualstudio.com/)
   * [Pulsar Beta (was Atom.io)](https://pulsar-edit.dev/)
   * [Typora](https://typora.io/)
