@@ -97,13 +97,18 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 #### Markdown CSS Classes
 
-If you can edit the Markdown file that is displayed by Docsify-This the visual appearance can be further altered by using a set of provided [Markdown CSS Classes](https://docsify-this.net/#/?id=supported-markdown-css-classes). For example, **banner-image**, **button**, and **image-75/image-50/image-25**  
+If you can edit the Markdown file that is displayed by Docsify-This the visual appearance can be further altered by using a set of provided [Markdown CSS Classes](https://docsify-this.net/#/?id=supported-markdown-css-classes). For example:  
+
+**button**  
+
 
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 
 ```markdown
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
-``` 
+```
+
+**banner-image**  
 
 ![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 
