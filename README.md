@@ -99,17 +99,35 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 If you can edit the Markdown file that is displayed by Docsify-This the visual appearance can be further altered by using a set of provided [Markdown CSS Classes](https://docsify-this.net/#/?id=supported-markdown-css-classes). For example, **banner-image**, **button**, and **image-75/image-50/image-25**  
 
-```
-![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
-```
+[Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 
-```
+```markdown
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 ``` 
 
 #### Custom Markdown CSS Classes
 
+<style>
+.markdown-section .mybutton, .markdown-section .mybutton:hover {
+  cursor: pointer;
+  color: #CC0000;
+  height: auto;
+  display: inline-block;
+  border: 2px solid #CC0000;
+  border-radius: 4rem;
+  margin: 2px 0px 2px 0px;
+  padding: 8px 18px 8px 18px;
+  line-height: 1.2rem;
+  background-color: white;
+  font-family: -apple-system, "Segoe UI", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+}
+</style>
+
 In addition to the Markdown CSS classes supported by Docsify-This, you can also define your own custom classes within your displayed Markdown files, for example:
+
+[Custom CSS Class Button](# ':class=mybutton')
 
 CSS in Markdown file:  
 ```css
