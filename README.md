@@ -105,6 +105,12 @@ If you can edit the Markdown file that is displayed by Docsify-This the visual a
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 ``` 
 
+![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
+
+```markdown
+![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
+```
+
 #### Custom Markdown CSS Classes
 
 <style>
