@@ -215,6 +215,10 @@ With the CanvasLMS it is also possible to use an [external web page as content w
 ![Docsify-This Canvas LMS Module](images/docsify-this-module.jpg ':class=image-75-border')  
 _Figure 5. Docsify-This External URL (used as a Canvas LMS Module), for example https://canvas.sfu.ca/courses/76289/modules/items/2816273_
 
+```html
+https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages/main&homepage=week-01.md&toc-narrow=true&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica, Arial,sans-serif&font-size=1&hide-credits=true
+```
+
 ## Git and GitHub
 
 ### Git
