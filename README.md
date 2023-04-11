@@ -199,7 +199,9 @@ _Figure 3. Docsify-This iFrame (within the Canvas LMS Homepage), for example htt
 
 Many LMSs, including Canvas and Moodle, have the ability to link external web pages to their course navigation menus. For example, with the Canvas LMS you would use the [Redirect Tool](https://help.canvas.yale.edu/m/55452/l/914676-creating-a-custom-link-in-your-course-navigation-using-the-redirect-tool) to display Docsify-This web pages.
 
-#### Example Docsify-This Redirect Tool URL 
+#### URL
+
+The URL of a Markdown file rendered by Docsify-This can be posted inside or outside of other systems.  
 
 ![Docsify-This Module](images/docsify-this-page.jpg ':class=image-75-border')  
 _Figure 4. Docsify-This External URL within Canvas LMS (used with the Redirect Tool), for example https://canvas.sfu.ca/courses/76289/external_tools/36154_
