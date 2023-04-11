@@ -201,7 +201,7 @@ Many LMSs, including Canvas and Moodle, have the ability to link external web pa
 
 #### URL
 
-The URL of a Markdown file rendered by Docsify-This can be posted inside or outside of other systems.  
+The URL of a Markdown file rendered by Docsify-This can be included inside of other systems.  
 
 ![Docsify-This Module](images/docsify-this-page.jpg ':class=image-75-border')  
 _Figure 4. Docsify-This URL within Canvas LMS (used with the Redirect Tool), for example https://canvas.sfu.ca/courses/76289/external_tools/36154_
