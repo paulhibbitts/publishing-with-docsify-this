@@ -186,7 +186,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ### Embedding Docsify-This Pages
 
-#### Example Docsify-This iFrame HMTL
+#### iFrames
 
 You can embed Docsify-This web pages using iFrames in almost any platform. URL parameters can also be used to match each destination platform better visually.
 
