@@ -199,6 +199,8 @@ _Figure 3. Docsify-This iFrame (within the Canvas LMS Homepage), for example htt
 
 As shown above, with the Canvas LMS a Canvas Page can be set as the course Homepage, and then an iFrame can be used for the content of that page. For more details, view [How do I set a Front Page in a course?](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-set-a-Front-Page-in-a-course/ta-p/797) and [Embed content in Canvas](https://www.howtocanvas.com/create-amazing-pages-in-canvas/embedding-content).
 
+If a scroll bar is present, you may want to re-edit your iFrame code and adjust the "height" value.  
+
 #### External URL
 
 The URL of a Markdown file rendered by Docsify-This can also be included inside of other systems as an external URL.  
