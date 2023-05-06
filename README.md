@@ -190,22 +190,22 @@ The following Markdown templates are available which can be cloned/forked on Git
 
 #### [Docsify-This One Page Course Template](https://github.com/hibbitts-design/docsify-this-one-page-course)
 
-![Docsify-This One Page Course Template](images/docsify-this-one-page-course.jpg ':class=docsify-this-screenshot')
+![Docsify-This One Page Course Template](images/docsify-this-one-page-course.jpg ':class=docsify-this-screenshot')  
 _Figure 3. Docsify-This One Page Course Template_
 
 #### [Docsify-This One Page Article Template](https://github.com/hibbitts-design/docsify-this-one-page-article)
 
-![Docsify-This One Page Article Template](images/docsify-this-one-page-article.jpg ':class=docsify-this-screenshot')
+![Docsify-This One Page Article Template](images/docsify-this-one-page-article.jpg ':class=docsify-this-screenshot')  
 _Figure 4. Docsify-This One Page Article Template_
 
 #### [Docsify-This Multiple Page Site Template](https://github.com/hibbitts-design/docsify-this-multiple-page-site)
 
-![Docsify-This Multiple Page Site](images/docsify-this-multiple-page-site.jpg ':class=docsify-this-screenshot')
+![Docsify-This Multiple Page Site](images/docsify-this-multiple-page-site.jpg ':class=docsify-this-screenshot')  
 _Figure 5. Docsify-This Multiple Page Site_
 
 #### [Docsify-This LMS Content Pages Template](https://github.com/hibbitts-design/docsify-this-lms-content-pages)
 
-![Docsify-This LMS Content Pages Template](images/docsify-this-lms-content-pages.jpg ':class=docsify-this-screenshot')
+![Docsify-This LMS Content Pages Template](images/docsify-this-lms-content-pages.jpg ':class=docsify-this-screenshot')  
 _Figure 6. Docsify-This LMS Content Pages Template_
 
 ### Embedding Docsify-This Pages
