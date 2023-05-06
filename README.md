@@ -201,12 +201,12 @@ _Figure 4. Docsify-This One Page Article Template, for example https://docsify-t
 #### [Docsify-This Multiple Page Site Template](https://github.com/hibbitts-design/docsify-this-multiple-page-site)
 
 ![Docsify-This Multiple Page Site](images/docsify-this-multiple-page-site.jpg ':class=image-75-border')  
-_Figure 5. Docsify-This Multiple Page Site, for example https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=index.md&edit-link=https://github.com/hibbitts-design/docsify-this-lms-content-pages/blob/main/index.md_
+_Figure 5. Docsify-This Multiple Page Site, for example https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-multiple-page-site/main&homepage=home.md_
 
 #### [Docsify-This LMS Content Pages Template](https://github.com/hibbitts-design/docsify-this-lms-content-pages)
 
 ![Docsify-This LMS Content Pages Template](images/docsify-this-lms-content-pages.jpg ':class=image-75-border')  
-_Figure 6. Docsify-This LMS Content Pages Template, for example https://canvas.sfu.ca/courses/76289_
+_Figure 6. Docsify-This LMS Content Pages Template, for example https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=index.md_
 
 ### Embedding Docsify-This Pages
 
