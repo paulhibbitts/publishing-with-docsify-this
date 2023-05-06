@@ -191,6 +191,7 @@ The following example Markdown templates are available which can be cloned/forke
 #### [Docsify-This One Page Course Template](https://github.com/hibbitts-design/docsify-this-one-page-course)
 
 ![Docsify-This One Page Course Template](images/docsify-this-one-page-course.jpg ':class=image-75-border')  
+
 _Figure 3. Docsify-This One Page Course Template, for example https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-course/main&homepage=home.md&toc=true_
 
 #### [Docsify-This One Page Article Template](https://github.com/hibbitts-design/docsify-this-one-page-article)
