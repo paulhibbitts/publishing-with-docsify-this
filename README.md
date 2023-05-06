@@ -191,22 +191,22 @@ The following example Markdown templates are available which can be cloned/forke
 #### [Docsify-This One Page Course Template](https://github.com/hibbitts-design/docsify-this-one-page-course)
 
 ![Docsify-This One Page Course Template](images/docsify-this-one-page-course.jpg ':class=image-75-border')  
-_Figure 3. Docsify-This One Page Course Template_
+_Figure 3. Docsify-This One Page Course Template, for example https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-course/main&homepage=home.md&toc=true_
 
 #### [Docsify-This One Page Article Template](https://github.com/hibbitts-design/docsify-this-one-page-article)
 
 ![Docsify-This One Page Article Template](images/docsify-this-one-page-article.jpg ':class=image-75-border')  
-_Figure 4. Docsify-This One Page Article Template_
+_Figure 4. Docsify-This One Page Article Template, for example https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3_
 
 #### [Docsify-This Multiple Page Site Template](https://github.com/hibbitts-design/docsify-this-multiple-page-site)
 
 ![Docsify-This Multiple Page Site](images/docsify-this-multiple-page-site.jpg ':class=image-75-border')  
-_Figure 5. Docsify-This Multiple Page Site_
+_Figure 5. Docsify-This Multiple Page Site, for example https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=index.md&edit-link=https://github.com/hibbitts-design/docsify-this-lms-content-pages/blob/main/index.md_
 
 #### [Docsify-This LMS Content Pages Template](https://github.com/hibbitts-design/docsify-this-lms-content-pages)
 
 ![Docsify-This LMS Content Pages Template](images/docsify-this-lms-content-pages.jpg ':class=image-75-border')  
-_Figure 6. Docsify-This LMS Content Pages Template_
+_Figure 6. Docsify-This LMS Content Pages Template, for example https://canvas.sfu.ca/courses/76289_
 
 ### Embedding Docsify-This Pages
 
