@@ -186,7 +186,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ### Docsify-This Page Markdown Templates
 
-The following Markdown templates are available which can be cloned/forked on GitHub or imported into Codeberg. Templates can also be downloaded and hosted just about anywhere online. 
+The following example Markdown templates are available which can be cloned/forked on GitHub or imported into Codeberg. Templates can also be downloaded and hosted just about anywhere online. 
 
 #### [Docsify-This One Page Course Template](https://github.com/hibbitts-design/docsify-this-one-page-course)
 
