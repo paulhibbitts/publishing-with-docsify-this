@@ -191,17 +191,17 @@ The following example Markdown templates are available which can be cloned/forke
 #### [Docsify-This One Page Course Template](https://github.com/hibbitts-design/docsify-this-one-page-course)
 
 ![Docsify-This One Page Course Template](images/docsify-this-one-page-course.jpg ':class=image-75-border')  
-_Figure 3. Docsify-This One Page Course Template, for example https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-course/main&homepage=home.md&toc=true_  
+_Figure 3. Docsify-This One Page Course Template, for example the Markdown file [home.md](https://github.com/hibbitts-design/docsify-this-one-page-course/blob/main/home.md) and displayed by Docsify-This as https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-course/main&homepage=home.md&toc=true_  
 
 #### [Docsify-This One Page Article Template](https://github.com/hibbitts-design/docsify-this-one-page-article)
 
 ![Docsify-This One Page Article Template](images/docsify-this-one-page-article.jpg ':class=image-75-border')  
-_Figure 4. Docsify-This One Page Article Template, for example https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3_  
+_Figure 4. Docsify-This One Page Article Template, for example the Markdown file [home.md](https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md) and displayed by Docsify-This as https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3_  
 
 #### [Docsify-This Multiple Page Site Template](https://github.com/hibbitts-design/docsify-this-multiple-page-site)
 
 ![Docsify-This Multiple Page Site](images/docsify-this-multiple-page-site.jpg ':class=image-75-border')  
-_Figure 5. Docsify-This Multiple Page Site, for example https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-multiple-page-site/main&homepage=home.md_  
+_Figure 5. Docsify-This Multiple Page Site, for example the Markdown file [home.md](https://github.com/hibbitts-design/docsify-this-multiple-page-site/blob/main/home.md) and displayed by Docsify-This as https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-multiple-page-site/main&homepage=home.md_  
 
 #### [Docsify-This LMS Content Pages Template](https://github.com/hibbitts-design/docsify-this-lms-content-pages)
 
