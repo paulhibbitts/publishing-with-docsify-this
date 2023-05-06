@@ -184,6 +184,30 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 </div>
 ```
 
+### Docsify-This Page Markdown Templates
+
+The following Markdown templates are available which can be cloned/forked on GitHub or imported into Codeberg. Templates can also be downloaded and hosted just about anywhere online. 
+
+#### [Docsify-This One Page Course Template](https://github.com/hibbitts-design/docsify-this-one-page-course)
+
+![Docsify-This One Page Course Template](images/docsify-this-one-page-course.jpg ':class=docsify-this-screenshot')
+_Figure 3. Docsify-This One Page Course Template_
+
+#### [Docsify-This One Page Article Template](https://github.com/hibbitts-design/docsify-this-one-page-article)
+
+![Docsify-This One Page Article Template](images/docsify-this-one-page-article.jpg ':class=docsify-this-screenshot')
+_Figure 4. Docsify-This One Page Article Template_
+
+#### [Docsify-This Multiple Page Site Template](https://github.com/hibbitts-design/docsify-this-multiple-page-site)
+
+![Docsify-This Multiple Page Site](images/docsify-this-multiple-page-site.jpg ':class=docsify-this-screenshot')
+_Figure 5. Docsify-This Multiple Page Site_
+
+#### [Docsify-This LMS Content Pages Template](https://github.com/hibbitts-design/docsify-this-lms-content-pages)
+
+![Docsify-This LMS Content Pages Template](images/docsify-this-lms-content-pages.jpg ':class=docsify-this-screenshot')
+_Figure 6. Docsify-This LMS Content Pages Template_
+
 ### Embedding Docsify-This Pages
 
 #### iFrames
@@ -191,7 +215,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 You can embed Docsify-This web pages using iFrames in almost any platform. URL parameters can also be used to match each destination platform better visually.
 
 ![Docsify-This iFrame](images/docsify-this-iframe.jpg ':class=image-75-border')  
-_Figure 3. Docsify-This iFrame (within the Canvas LMS Homepage), for example https://canvas.sfu.ca/courses/76289_
+_Figure 7. Docsify-This iFrame (within the Canvas LMS Homepage), for example https://canvas.sfu.ca/courses/76289_
 
 ```html
 <p><iframe style="overflow: hidden; border: 0px #ffffff none; margin-top: -26px; background: #ffffff;" src="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages/main&homepage=home.md&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&hide-credits=true" width="800px" height="950px" allowfullscreen="allowfullscreen"></iframe></p>
@@ -208,7 +232,7 @@ The URL of a Markdown file rendered by Docsify-This can also be included inside 
 Many LMSs, including Canvas and Moodle, have the ability to include external URLs in their course navigation menus. For example, with the Canvas LMS you would use the [Redirect Tool](https://help.canvas.yale.edu/m/55452/l/914676-creating-a-custom-link-in-your-course-navigation-using-the-redirect-tool) to display Docsify-This web pages.
 
 ![Docsify-This Module](images/docsify-this-page.jpg ':class=image-75-border')  
-_Figure 4. Docsify-This External URL within Canvas LMS (used with the Redirect Tool), for example https://canvas.sfu.ca/courses/76289/external_tools/36154_
+_Figure 8. Docsify-This External URL within Canvas LMS (used with the Redirect Tool), for example https://canvas.sfu.ca/courses/76289/external_tools/36154_
 
 ```html
 url=https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages/main&homepage=resources.md&edit-link=https://github.com/paulhibbitts/cmpt-363-222-pages/blob/main/resources.md&font-family=Lato%20Extended,Lato,Helvetica%20Neue, Helvetica,Arial,sans-serif&font-size=1&hide-credits=true
@@ -217,11 +241,13 @@ url=https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhib
 With the Canvas LMS it is also possible to use an [external web page as content within a course Module](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-add-an-external-URL-as-a-module-item/ta-p/967).
 
 ![Docsify-This Canvas LMS Module](images/docsify-this-module.jpg ':class=image-75-border')  
-_Figure 5. Docsify-This External URL with Page Table of Contents (used as a Canvas LMS Module), for example https://canvas.sfu.ca/courses/76289/modules/items/2816273_
+_Figure 9. Docsify-This External URL with Page Table of Contents (used as a Canvas LMS Module), for example https://canvas.sfu.ca/courses/76289/modules/items/2816273_
 
 ```html
 https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages/main&homepage=week-01.md&toc-narrow=true&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica, Arial,sans-serif&font-size=1&hide-credits=true
 ```
+
+#### [Docsify-This LMS Content Pages Template](https://github.com/hibbitts-design/docsify-this-lms-content-pages)
 
 ## Git and GitHub
 
@@ -234,14 +260,14 @@ Git is a free and open source distributed version control system,  originally cr
 Version control supports the management of changes, called revisions, to files... especially useful for pure text files such as those used by Docsify-This.
 
 ![Local Version Control](images/local.png ':class=image-75')  
-_Figure 6. Local Version Control (source: https://git-scm.com)_
+_Figure 10. Local Version Control (source: https://git-scm.com)_
 
 #### Collaboration
 
 As a distributed version control system, Git also support collaboration with multiple contributors.
 
 ![Distributed Version Control](images/distributed.png ':class=image-75-border')  
-_Figure 7. Distributed Version Control (source: https://git-scm.com)_
+_Figure 11. Distributed Version Control (source: https://git-scm.com)_
 
 ### GitHub
 
@@ -250,7 +276,7 @@ GitHub is an online Git service, providing point-and-click means to create and m
 In addition to supporting the hosting of Git repositories, online editing of repository content such as Markdown files (using the filename extension .md) is also provided.
 
 ![GitHub Markdown File](images/github-markdown-file.jpg ':class=image-75-border')  
-_Figure 8. GitHub Markdown File_
+_Figure 12. GitHub Markdown File_
 
 ### GitHub Desktop
   
@@ -258,7 +284,7 @@ _Figure 8. GitHub Markdown File_
 * **Push** and **Pull** Repository Changes  
 
 ![GitHub Desktop](images/github-desktop-screenshot-mac.jpg ':class=image-75-border')  
-_Figure 9. GitHub Desktop Mac (source: https://desktop.github.com)_
+_Figure 13. GitHub Desktop Mac (source: https://desktop.github.com)_
 
 ### Docsify-This + GitHub or Codeberg Markdown Files 
 
@@ -278,10 +304,10 @@ Once your Docsify-This Markdown files are synced (i.e. cloned) to your desktop v
 Using GitHub Desktop you can preview any changes and then commit those changes back to the repository. VSCode can also be used alone to both sync and editing files.
 
 ![Docsify-This + GitHub Markdown Files](images/docsify-this-github.jpg ':class=image-75-border')  
-_Figure 10. Docsify-This + GitHub Markdown Files Workflow_
+_Figure 14. Docsify-This + GitHub Markdown Files Workflow_
 
 ![Docsify-This + Webserver Markdown Files_](images/docsify-this-webserver.jpg ':class=image-75-border')  
-_Figure 11. Docsify-This + Webserver Markdown Files_
+_Figure 15. Docsify-This + Webserver Markdown Files_
 
 ## Additional Resources
 
