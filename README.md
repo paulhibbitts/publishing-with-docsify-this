@@ -37,7 +37,7 @@ Tip: To ensure a new paragraph after text in markdown, put two spaces after the 
 
 ```
 
-Looking for a more detailed overview of Markdown? Check out [Markdown Cheat Sheet – How to Write in Markdown with Examples](https://www.freecodecamp.org/news/markdown-cheat-sheet/).
+Looking for a more detailed overview of Markdown? Check out the [Markdown Cheat Sheet – How to Write in Markdown with Examples](https://www.freecodecamp.org/news/markdown-cheat-sheet/).
 
 ## Publishing with Markdown
 
