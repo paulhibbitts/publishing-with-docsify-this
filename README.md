@@ -32,8 +32,12 @@ _your italic text here_
   1. your numbered (and indented) list item here   
 
 [link title](www.google.com)  
-```
+
 Tip: To ensure a new paragraph after text in markdown, put two spaces after the end of the line
+
+```
+
+Looking for a more detailed overview of Markdown? Check out [Markdown Cheat Sheet – How to Write in Markdown with Examples](https://www.freecodecamp.org/news/markdown-cheat-sheet/).
 
 ## Publishing with Markdown
 
