@@ -33,6 +33,8 @@ _your italic text here_
 
 [link title](www.google.com)  
 
+![Image Alt Text](imagefile.jpg)  
+
 Tip: To ensure a new paragraph after text in markdown, put two spaces after the end of the line
 
 ```
