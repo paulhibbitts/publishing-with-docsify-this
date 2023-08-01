@@ -258,8 +258,6 @@ _Figure 10. Docsify-This External URL with Page Table of Contents (used as a Can
 https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages/main&homepage=week-01.md&toc-narrow=true&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica, Arial,sans-serif&font-size=1&hide-credits=true
 ```
 
-#### [Docsify-This LMS Content Pages Template](https://github.com/hibbitts-design/docsify-this-lms-content-pages)
-
 ## Git and GitHub
 
 ### Git
