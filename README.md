@@ -321,6 +321,7 @@ _Figure 16. Docsify-This + Webserver Markdown Files_
 ## Additional Resources
 
 * Markdown Format
+  * [What Is Markdown, and How Do You Use It?](https://www.howtogeek.com/448323/what-is-markdown-and-how-do-you-use-it/)
   * [Markdown Guide](http://markdownguide.org)
   * [Markdown Cheatsheet](http://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * Creating and Editing Markdown on GitHub
