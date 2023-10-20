@@ -7,7 +7,7 @@ An introduction to Markdown publishing using the open source [Docsify-This.net](
 ## Markdown
 
 ### What is Markdown? 
-[Markdown](https://www.freecodecamp.org/news/markdown-cheat-sheet/) is a syntax to format the display of content stored as plain text - similar but simpler than HTML formatting
+[Markdown](https://en.wikipedia.org/wiki/Markdown) is a syntax to format the display of content stored as plain text - similar but simpler than HTML formatting
 
 ### Why use Markdown? 
 
