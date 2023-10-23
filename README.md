@@ -7,7 +7,7 @@ An introduction to Markdown publishing using the open source [Docsify-This.net](
 ## Markdown
 
 ### What is Markdown? 
-[Markdown](https://en.wikipedia.org/wiki/Markdown) a markup language to format the display of content stored as plain text - similar but simpler than HTML&nbsp;formatting  
+[Markdown](https://en.wikipedia.org/wiki/Markdown) is a markup language used to format the display of content stored as plain text - similar but simpler than HTML&nbsp;formatting  
 
 ### Why use Markdown? 
 
