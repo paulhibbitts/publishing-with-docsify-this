@@ -62,8 +62,7 @@ _Being open source, you can also host your own Docsify-This instance, with the p
 * Publish your Markdown files as standalone web pages, with no website setup or build process required
 * Visually style your standalone web pages using a point-and-click Web Page Builder
 * Share existing GitHub-hosted Markdown files as standalone web pages, with an optional 'Edit this Page' link
-* Seamlessly embed constraint-free Markdown/HTML, which you have authored, into other platforms (e.g. LMS or CMS)
-* Reuse existing Markdown content by seamlessly embedding it within other platforms (e.g. LMS or CMS)
+* Seamlessly embed constraint-free Markdown/HTML into other platforms (e.g. LMS or CMS)
 * Utilize the supported URL parameters when embedding content to match each destination platform better visually
 
 ### Docsify-This Web Page Builder
