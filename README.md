@@ -194,6 +194,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 The following example Markdown templates are available which can be cloned/forked on GitHub or imported into Codeberg. Templates can also be downloaded and hosted just about anywhere online. 
 
+To use these templates you would generally do the following (specific instructions are included with each template):
+
+1. Tap **Use this template** in the chosen template repository (upper-right green button) and then choose **Create a new repository**
+
+2. Choose the name for your new repository to contain the files and then tap **Create repository** to copy the template files to your own GitHub account
+
+3. View the **home.md** Markdown file in your newly created repository and copy it's URL
+
+4. Go to https://docsify-this.net and paste the copied URL into the **Markdown File URL** field
+
+5. Select the page options you want (e.g. Docsify Sidebar) and tap the **View as Standalone Page** button to view your Markdown file as a web page for sharing or embedding  
+
 <h4><a href="https://github.com/hibbitts-design/docsify-this-one-page-article">Docsify-This One Page Article Templates</a></h4>
 
 ![Docsify-This One Page Article Template](images/docsify-this-one-page-article.jpg ':class=image-75-border')  
