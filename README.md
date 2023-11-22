@@ -206,6 +206,8 @@ To use these templates you would generally do the following (specific instructio
 
 5. Select the page options you want (e.g. Docsify Sidebar) and tap the **View as Standalone Page** button to view your Markdown file as a web page for sharing or embedding  
 
+Now that the template files are located on your own GitHub account, modify their content to fit your needs.  
+
 <h4><a href="https://github.com/hibbitts-design/docsify-this-one-page-article">Docsify-This One Page Article Templates</a></h4>
 
 ![Docsify-This One Page Article Template](images/docsify-this-one-page-article.jpg ':class=image-75-border')  
