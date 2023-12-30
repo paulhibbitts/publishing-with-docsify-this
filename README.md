@@ -235,8 +235,8 @@ _Figure 7. Docsify-This LMS Content Pages Template, including such embeddable pa
 
 <h4><a href="https://github.com/hibbitts-design/docsify-this-markdown-portfolio-starter">Docsify-This Markdown Portfolio Starter Template</a></h4>
 
-![Docsify-This Markdown Portfolio Starter Template](images/![Alt text](docsify-this-markdown-portfolio-starter-template.jpg)':class=image-75-border')  
-_Figure 8. Docsify-This Markdown Portfolio Starter Template [ReadMe.md](https://github.com/hibbitts-design/docsify-this-multiple-page-site/blob/main/README.md) and displayed by Docsify-This as https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-markdown-portfolio-starter/main&homepage=README.md_  
+![Docsify-This Markdown Portfolio Starter Template](docsify-this-markdown-portfolio-starter-template.jpg ':class=image-75-border')  
+_Figure 8. Docsify-This Markdown Portfolio Starter Template [ReadMe.md](https://github.com/hibbitts-design/docsify-this-markdown-portfolio-starter/blob/main/README.md) and displayed by Docsify-This as https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-markdown-portfolio-starter/main&homepage=README.md_  
 
 ### Embedding Docsify-This Pages
 
