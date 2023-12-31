@@ -345,7 +345,7 @@ _Figure 17. Docsify-This + Webserver Markdown Files_
   * [Authoring With Markdown](https://ucsbcarpentry.github.io/2022-01-31-ucsb-webpub-online/02-markdown/)
 * Markdown Desktop Editors
   * [VSCode](https://code.visualstudio.com/)
-  * [Pulsar Beta (was Atom.io)](https://pulsar-edit.dev/)
+  * [Pulsar (was Atom.io)](https://pulsar-edit.dev/)
   * [Typora](https://typora.io/)
 * GitHub Desktop
   * [GitHub Desktop App](https://desktop.github.com/)
