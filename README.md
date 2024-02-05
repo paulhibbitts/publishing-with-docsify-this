@@ -1,4 +1,4 @@
-![](images/pawel-czerwinski-EIfU0IUqZw8-unsplash.jpg ':class=banner-image')
+![](images/pawel-czerwinski-EIfU0IUqZw8-unsplash.jpg ':class=banner-image :no-zoom')
 
 # Markdown Publishing with Docsify&#8288;&#8211;&#8288;This
 
