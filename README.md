@@ -115,7 +115,7 @@ If you can edit the Markdown file that is displayed by Docsify-This the visual a
 
 **banner-image**  
 
-![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
+![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image :no-zoom')
 
 ```markdown
 ![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
