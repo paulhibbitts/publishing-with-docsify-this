@@ -60,7 +60,7 @@ _Being open source, you can also host your own Docsify-This instance, with the p
 ### Docsify-This Core Design Principles
 
 * Frictionless Markdown publishing
-* Flexible content display
+* Flexible content display control
 * Author ownership of content
 
 ### Example Docsify-This Usage Scenarios
