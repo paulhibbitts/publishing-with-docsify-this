@@ -61,7 +61,7 @@ _Being open source, you can also host your own Docsify-This instance, with the p
 
 * Frictionless Markdown publishing
 * Flexible content display control
-* Author ownership of content
+* Author possession of content
 
 ### Example Docsify-This Usage Scenarios
 
