@@ -57,14 +57,6 @@ Looking for a more detailed overview of Markdown? Check out the [Markdown Cheat 
 
 _Being open source, you can also host your own Docsify-This instance, with the possibility of even a custom domain! No platform lock-in here._
 
-### Docsify-This Core Design Principles
-
-* Frictionless Markdown publishing
-* Flexible content display control
-* Author possession of content
-* Support the 5 Rs of OER
-* Authors can help other authors
-
 ### Example Docsify-This Usage Scenarios
 
 * Publish your Markdown files as standalone web pages, with no website setup or build process required
