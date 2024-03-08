@@ -351,3 +351,6 @@ _Figure 17. Docsify-This + Webserver Markdown Files_
   * [GitHub Desktop App](https://desktop.github.com/)
   * [An Introduction to Version Control Using GitHub Desktop](http://programminghistorian.org/en/lessons/retired/getting-started-with-github-desktop)
   * [Getting Started with Git and GitHub Desktop](https://www.codecademy.com/article/what-is-git-and-github-desktop)
+* GitHub and Open Education Resources (OER)
+  * [Create and publish OER with GitHub](https://liascript.github.io/course/?https://raw.githubusercontent.com/TIBHannover/oer-github-tutorial/main/tutorial.md#1)
+  * [OER on GitHub What, Why, & How](https://evanwill.github.io/make-oer)
