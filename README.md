@@ -343,14 +343,14 @@ _Figure 17. Docsify-This + Webserver Markdown Files_
 * Creating and Editing Markdown on GitHub
   * [Quickstart for writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
   * [Authoring With Markdown](https://ucsbcarpentry.github.io/2022-01-31-ucsb-webpub-online/02-markdown/)
-* Markdown Desktop Editors
-  * [VSCode](https://code.visualstudio.com/)
-  * [Pulsar (was Atom.io)](https://pulsar-edit.dev/)
-  * [Typora](https://typora.io/)
+* GitHub and Open Education Resources (OER)
+  * [Create and publish OER with GitHub](https://liascript.github.io/course/?https://raw.githubusercontent.com/TIBHannover/oer-github-tutorial/main/tutorial.md#1)
+  * [OER on GitHub What, Why, & How](https://evanwill.github.io/make-oer)
 * GitHub Desktop
   * [GitHub Desktop App](https://desktop.github.com/)
   * [An Introduction to Version Control Using GitHub Desktop](http://programminghistorian.org/en/lessons/retired/getting-started-with-github-desktop)
   * [Getting Started with Git and GitHub Desktop](https://www.codecademy.com/article/what-is-git-and-github-desktop)
-* GitHub and Open Education Resources (OER)
-  * [Create and publish OER with GitHub](https://liascript.github.io/course/?https://raw.githubusercontent.com/TIBHannover/oer-github-tutorial/main/tutorial.md#1)
-  * [OER on GitHub What, Why, & How](https://evanwill.github.io/make-oer)
+* Markdown Desktop Editors
+  * [VSCode](https://code.visualstudio.com/)
+  * [Pulsar (was Atom.io)](https://pulsar-edit.dev/)
+  * [Typora](https://typora.io/)
