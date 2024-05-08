@@ -272,6 +272,26 @@ _Figure 11. Docsify-This External URL with Page Table of Contents (used as a Can
 https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages/main&homepage=week-01.md&toc-narrow=true&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica, Arial,sans-serif&font-size=1&hide-credits=true
 ```
 
+## Hosting Markdown Files
+There are multiple ways to get a raw Markdown file available online, here are three options to help you get started:
+
+### GitHub or Codeberg 
+1. Signup for a [GitHub](https://github.com) or [Codeberg](https://codeberg.org) account
+2. Create a new repository and upload your Markdown file
+3. View the uploaded file, and copy/paste that URL into the Docsify-This **Markdown File URL** field
+
+### Gist (GitHub Gists)
+1. Signup for a [GitHub](https://github.com) account
+1. Create a gist with your Markdown file at https://gist.github.com
+2. Enter a filename ending with `.md` (e.g. `myfile.md`)
+3. Choose **Create public gist** and tap on that button
+4. Tap on **Raw** button in the upper right of your Gist field and copy/paste that URL into the Docsify-This **Markdown File URL** field
+
+### Personal or Organizational Website
+1. Obtain login information for your server
+2. Upload the Markdown file to your server
+3. Navigate to the location of that file, view the contents in your Browser, and copy/paste that URL into the Docsify-This **Markdown File URL** field
+
 ## Git and GitHub
 
 ### Git
@@ -294,7 +314,7 @@ _Figure 13. Distributed Version Control (source: https://git-scm.com)_
 
 ### GitHub
 
-GitHub is an online Git service, providing point-and-click means to create and manage Git repositories.
+GitHub and Codeberg are examples of online Git services, providing point-and-click means to create and manage Git repositories.
 
 In addition to supporting the hosting of Git repositories, online editing of repository content such as Markdown files (using the filename extension .md) is also provided.
 
