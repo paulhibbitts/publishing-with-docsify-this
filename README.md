@@ -230,7 +230,7 @@ Now that the template files are located on your own GitHub account, modify their
 
 <h4><a href="https://github.com/hibbitts-design/docsify-this-lms-content-pages">Docsify-This LMS Content Pages Template</a></h4>
 
-<img src="images/docsify-this-lms-content-pages.jpg" alt="Docsify-This LMS Content Pages Template" class="image-75-border">
+<img src="images/docsify-this-lms-content-pages.jpg" width="682.5" height="511.9" class="image-75-border" alt="Docsify-This LMS Content Pages Template"><br>
 <em>Figure 7. Docsify-This LMS Content Pages Template, including such embeddable pages as a <a href="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=home.md&edit-link=https://github.com/hibbitts-design/docsify-this-lms-content-pages/blob/main/home.md">home page</a>, <a href="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=module-01.md&edit-link=https://github.com/hibbitts-design/docsify-this-lms-content-pages/blob/main/module-01.md">weekly module</a>, <a href="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=topics.md&edit-link=https://github.com/hibbitts-design/docsify-this-lms-content-pages/blob/main/topics.md">topics</a> and <a href="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=index.md">more</a></em>
 
 ### Embedding Docsify-This Pages
