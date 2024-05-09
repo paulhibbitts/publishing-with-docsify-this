@@ -239,7 +239,7 @@ Now that the template files are located on your own GitHub account, modify their
 
 You can embed Docsify-This web pages using iFrames in almost any platform. URL parameters can also be used to match each destination platform better visually.
 
-<img src="images/docsify-this-iframe.jpg" width="682.5" height="511.9" class="image-75-border" alt="Docsify-This iFrame"><br>
+<img src="images/docsify-this-iframe.jpg" width="910" height="683" class="image-border" alt="Docsify-This iFrame"><br>
 <em>Figure 8. Docsify-This iFrame (within the Canvas LMS Homepage), for example <a href="https://canvas.sfu.ca/courses/76289">https://canvas.sfu.ca/courses/76289</a></em>
 
 ```html
@@ -256,7 +256,7 @@ The URL of a Markdown file rendered by Docsify-This can also be included inside 
 
 Many LMSs, including Canvas and Moodle, have the ability to include external URLs in their course navigation menus. For example, with the Canvas LMS you would use the [Redirect Tool](https://help.canvas.yale.edu/m/55452/l/914676-creating-a-custom-link-in-your-course-navigation-using-the-redirect-tool) to display Docsify-This web pages.
 
-<img src="images/docsify-this-page.jpg" width="682.5" height="511.9" class="image-75-border" alt="Docsify-This Module"><br>
+<img src="images/docsify-this-page.jpg" width="910" height="683" class="image-border" alt="Docsify-This Module"><br>
 <em>Figure 9. Docsify-This External URL within Canvas LMS (used with the Redirect Tool), for example <a href="https://canvas.sfu.ca/courses/76289/external_tools/36154">https://canvas.sfu.ca/courses/76289/external_tools/36154</a></em>
 
 ```html
@@ -265,8 +265,8 @@ url=https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhib
 
 With the Canvas LMS it is also possible to use an [external web page as content within a course Module](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-add-an-external-URL-as-a-module-item/ta-p/967).
 
-![Docsify-This Canvas LMS Module](images/docsify-this-module.jpg ':class=image-75-border')  
-_Figure 10. Docsify-This External URL with Page Table of Contents (used as a Canvas LMS Module), for example https://canvas.sfu.ca/courses/76289/modules/items/2816273_
+<img src="images/docsify-this-module.jpg" width="910" height="683" class="image-border" alt="Docsify-This Canvas LMS Module"><br>
+<em>Figure 10. Docsify-This External URL with Page Table of Contents (used as a Canvas LMS Module), for example <a href="https://canvas.sfu.ca/courses/76289/modules/items/2816273">https://canvas.sfu.ca/courses/76289/modules/items/2816273</a></em>
 
 ```html
 https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages/main&homepage=week-01.md&toc-narrow=true&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica, Arial,sans-serif&font-size=1&hide-credits=true
