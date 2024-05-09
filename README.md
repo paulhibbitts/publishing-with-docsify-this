@@ -69,8 +69,8 @@ _Being open source, you can also host your own Docsify-This instance, with the p
 
 To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter the URL for an online Markdown file and tap the ‘Publish as Standalone Web Page’ button. The Markdown file will then be rendered as a standalone Web page with it’s own URL that can then be copied and shared.
 
-<img src="images/docsify-this-web-page-builder.jpg" width="682.5" height="511.9" class="image-75-border"><br>
-<em> Figure 1. Docsify-This Web Page Builder </em>
+<img src="images/docsify-this-web-page-builder.jpg" width="682.5" height="511.9" class="image-75-border" alt="Docsify-This Web Page Builder"><br>
+<em>Figure 1. Docsify-This Web Page Builder</em>
 
 ### Example Docsify-This URL
 
@@ -78,8 +78,8 @@ To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter 
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md
 ```
 
-![Docsify-This Rendered Markdown File](images/docsify-this-rendered-markdown-file.jpg ':class=image-75-border')  
-_Figure 2. Docsify-This Rendered Markdown File_
+<img src="images/docsify-this-rendered-markdown-file.jpg" width="682.5" height="511.9" class="image-75-border" alt="Docsify-This Rendered Markdown File"><br>
+<em>Figure 2. Docsify-This Rendered Markdown File</em>
 
 Docsify-This rendered Web pages are also perfect for embedding, with the ability to visually style Docsify-This pages to the destination platform.
 
