@@ -215,7 +215,7 @@ Now that the template files are located on your own GitHub account, modify their
 
 <h4><a href="https://github.com/hibbitts-design/docsify-this-one-page-course">Docsify-This One Page Course Template</a></h4>
 
-<img src="images/docsify-this-one-page-course.jpg" wwidth="910" height="600" class="image-border" alt="Docsify-This One Page Course Template"><br>
+<img src="images/docsify-this-one-page-course.jpg" width="910" height="600" class="image-border" alt="Docsify-This One Page Course Template"><br>
 <figcaption><em>Figure 4. Docsify-This One Page Course Template, for example the Markdown file <a href="https://github.com/hibbitts-design/docsify-this-one-page-course/blob/main/home.md">home.md</a> and displayed by Docsify-This as <a href="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-course/main&homepage=home.md&toc=true">https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-course/main&homepage=home.md&toc=true</a></em></figcaption>
 
 <h4><a href="https://github.com/hibbitts-design/docsify-this-multiple-page-site">Docsify-This Multiple Page Site Template</a></h4>
