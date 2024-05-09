@@ -213,6 +213,9 @@ Now that the template files are located on your own GitHub account, modify their
 ![Docsify-This One Page Article Template](images/docsify-this-one-page-article.jpg ':class=image-75-border')  
 _Figure 3. Docsify-This One Page Article Template, for example the Markdown file [home.md](https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md) and displayed by Docsify-This as https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3_  
 
+<img src="images/docsify-this-one-page-article.jpg" width="682.5" height="511.9" class="image-75-border" alt="Docsify-This One Page Article Template"><br>
+<em>Figure 3. Docsify-This One Page Article Template, for example the Markdown file <a href="https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md">home.md</a> and displayed by Docsify-This as <a href="[https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3">https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3</a>
+
 <h4><a href="https://github.com/hibbitts-design/docsify-this-one-page-course">Docsify-This One Page Course Template</a></h4>
 
 ![Docsify-This One Page Course Template](images/docsify-this-one-page-course.jpg ':class=image-75-border')  
