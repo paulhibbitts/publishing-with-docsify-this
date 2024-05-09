@@ -143,8 +143,6 @@ If you can edit the Markdown file that is displayed by Docsify-This the visual a
 
 In addition to the Markdown CSS classes supported by Docsify-This, you can also define your own custom classes within your displayed Markdown files, for example:
 
-[Custom CSS Class Button](# ':class=mybutton')
-
 <a href="#" class="mybutton" style="height: 42px; display: inline-block;">Custom CSS Class Button</a>
 
 CSS in Markdown file:  
