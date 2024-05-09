@@ -78,7 +78,7 @@ To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter 
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md
 ```
 
-<img src="images/docsify-this-rendered-markdown-file.jpg" width="682.5" height="511.9" class="image-75-border" alt="Docsify-This Rendered Markdown File"><br>
+<img src="images/docsify-this-rendered-markdown-file.jpg" width="682.5" height="511.9" class="image-border" alt="Docsify-This Rendered Markdown File"><br>
 <em>Figure 2. Docsify-This Rendered Markdown File</em>
 
 Docsify-This rendered Web pages are also perfect for embedding, with the ability to visually style Docsify-This pages to the destination platform.
@@ -209,6 +209,9 @@ To use these templates you would generally do the following (specific instructio
 Now that the template files are located on your own GitHub account, modify their content to fit your needs.  
 
 <h4><a href="https://github.com/hibbitts-design/docsify-this-one-page-article">Docsify-This One Page Article Templates</a></h4>
+
+![Docsify-This One Page Article Template](images/docsify-this-one-page-article.jpg ':class=image-border')  
+_Figure 3. Docsify-This One Page Article Template, for example the Markdown file [home.md](https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md) and displayed by Docsify-This as https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3_  
 
 <img src="images/docsify-this-one-page-article.jpg" width="682.5" height="511.9" class="image-75-border" alt="Docsify-This One Page Article Template"><br>
 <em>Figure 3. Docsify-This One Page Article Template, for example the Markdown file <a href="https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md">home.md</a> and displayed by Docsify-This as <a href="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3">https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3</a></em>
