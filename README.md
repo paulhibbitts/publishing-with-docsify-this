@@ -302,15 +302,15 @@ Git is a free and open source distributed version control system,  originally cr
 
 Version control supports the management of changes, called revisions, to files... especially useful for pure text files such as those used by Docsify-This.
 
-![Local Version Control](images/local.png ':class=image-75')  
-_Figure 11. Local Version Control (source: https://git-scm.com)_
+<img src="images/local.png" alt="Local Version Control" class="image-75">
+<figcaption><em>Figure 11. Local Version Control (source: <a href="https://git-scm.com">https://git-scm.com</a>)</em></figcaption>
 
 #### Collaboration
 
 As a distributed version control system, Git also support collaboration with multiple contributors.
 
-![Distributed Version Control](images/distributed.png ':class=image-75-border')  
-_Figure 12. Distributed Version Control (source: https://git-scm.com)_
+<img src="images/distributed.png" alt="Local Version Control" class="image-75">
+<figcaption><em>Figure 12. Distributed Version Control (source: <a href="https://git-scm.com">https://git-scm.com</a>)</em></figcaption>
 
 ### GitHub
 
@@ -318,16 +318,16 @@ GitHub and Codeberg are examples of online Git services, providing point-and-cli
 
 In addition to supporting the hosting of Git repositories, online editing of repository content such as Markdown files (using the filename extension .md) is also provided.
 
-![GitHub Markdown File](images/github-markdown-file.jpg ':class=image-75-border')  
-_Figure 13. GitHub Markdown File_
+<img src="images/github-markdown-file.jpg" alt="Local Version Control" class="image-75-border">
+<figcaption><em>Figure 13. GitHub Markdown File</em></figcaption>
 
 ### GitHub Desktop
   
 * Locally Store Git/GitHub Repositories  
 * **Push** and **Pull** Repository Changes  
 
-![GitHub Desktop](images/github-desktop-screenshot-mac.jpg ':class=image-75-border')  
-_Figure 14. GitHub Desktop Mac (source: https://desktop.github.com)_
+<img src="images/github-desktop-screenshot-mac.jpg" alt="GitHub Desktop" class="image-75-border">
+<figcaption><em>Figure 14. GitHub Desktop Mac (source: <a href="https://git-scm.com">https://git-scm.com</a>)</em></figcaption>
 
 ### Docsify-This + GitHub or Codeberg Markdown Files 
 
@@ -346,11 +346,11 @@ Once your Docsify-This Markdown files are synced (i.e. cloned) to your desktop v
 
 Using GitHub Desktop you can preview any changes and then commit those changes back to the repository. VSCode can also be used alone to both sync and editing files.
 
-![Docsify-This + GitHub Markdown Files](images/docsify-this-github.jpg ':class=image-75-border')  
-_Figure 15. Docsify-This + GitHub Markdown Files Workflow_
+<img src="images/docsify-this-github.jpg" alt="Docsify-This + GitHub Markdown Files" class="image-75-border">
+<figcaption><em>Figure 15. Docsify-This + GitHub Markdown Files Workflow</em></figcaption>
 
-![Docsify-This + Webserver Markdown Files_](images/docsify-this-webserver.jpg ':class=image-75-border')  
-_Figure 16. Docsify-This + Webserver Markdown Files_
+<img src="images/docsify-this-webserver.jpg" alt="Docsify-This + Webserver Markdown Files" class="image-75-border">
+<figcaption><em>Figure 16. Docsify-This + Webserver Markdown Files</em></figcaption>
 
 ## Additional Resources
 
