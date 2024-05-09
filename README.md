@@ -1,5 +1,7 @@
 ![](images/pawel-czerwinski-EIfU0IUqZw8-unsplash.jpg ':class=banner-image :no-zoom')
 
+<img src="images/pawel-czerwinski-EIfU0IUqZw8-unsplash.jpg" width="1920" height="1080" class="banner-image">
+
 # Markdown Publishing with Docsify&#8288;&#8211;&#8288;This
 
 An introduction to Markdown publishing using the open source [Docsify-This.net](https://docsify-this.net/) project.
@@ -71,6 +73,10 @@ To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter 
 
 ![Docsify-This Web Page Builder](images/docsify-this-web-page-builder.jpg ':class=image-75-border')  
 _Figure 1. Docsify-This Web Page Builder_
+
+<img src="images/docsify-this-web-page-builder.jpg" width=2880" height="2158" class="image-75-border">
+
+<em> Figure 1. Docsify-This Web Page Builder </em>
 
 ### Example Docsify-This URL
 
