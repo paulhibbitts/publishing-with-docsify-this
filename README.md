@@ -220,7 +220,7 @@ Now that the template files are located on your own GitHub account, modify their
 
 <h4><a href="https://github.com/hibbitts-design/docsify-this-multiple-page-site">Docsify-This Multiple Page Site Template</a></h4>
 
-<img src="images/docsify-this-multiple-page-site.jpg" wwidth="910" height="600" class="image-border" alt="Docsify-This Multiple Page Site"><br>
+<img src="images/docsify-this-multiple-page-site.jpg" width="910" height="600" class="image-border" alt="Docsify-This Multiple Page Site"><br>
 <figcaption><em>Figure 5. Docsify-This Multiple Page Site, for example the Markdown file <a href="https://github.com/hibbitts-design/docsify-this-multiple-page-site/blob/main/home.md">home.md</a> and displayed by Docsify-This as <a href="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-multiple-page-site/main&homepage=home.md">https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-multiple-page-site/main&homepage=home.md</a></em></figcaption>
 
 <h4><a href="https://github.com/hibbitts-design/docsify-this-multiple-page-course-site">Docsify-This Multiple Page Course Site Template</a></h4>
