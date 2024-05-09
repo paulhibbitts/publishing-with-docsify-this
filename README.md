@@ -107,9 +107,7 @@ If you can edit the Markdown file that is displayed by Docsify-This the visual a
 
 **button**  
 
-<a href="https://canvas.sfu.ca/courses/44038/quizzes/166553" class="button" style="height: 42px; display: inline-block;">Required Reading
-
-[Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
+<a href="https://canvas.sfu.ca/courses/44038/quizzes/166553" class="button" style="height: 42px; display: inline-block;">Required Reading Quiz due Jun 4th</a>
 
 ```markdown
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
@@ -146,6 +144,8 @@ If you can edit the Markdown file that is displayed by Docsify-This the visual a
 In addition to the Markdown CSS classes supported by Docsify-This, you can also define your own custom classes within your displayed Markdown files, for example:
 
 [Custom CSS Class Button](# ':class=mybutton')
+
+<a href="#" class="mybutton" style="height: 42px; display: inline-block;">Custom CSS Class Button</a>
 
 CSS in Markdown file:  
 ```css
