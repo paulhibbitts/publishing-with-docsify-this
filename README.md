@@ -1,5 +1,3 @@
-![](images/pawel-czerwinski-EIfU0IUqZw8-unsplash.jpg ':class=banner-image :no-zoom')
-
 <img src="images/pawel-czerwinski-EIfU0IUqZw8-unsplash.jpg" width="1920" height="1080" class="banner-image">
 
 # Markdown Publishing with Docsify&#8288;&#8211;&#8288;This
@@ -71,11 +69,7 @@ _Being open source, you can also host your own Docsify-This instance, with the p
 
 To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter the URL for an online Markdown file and tap the ‘Publish as Standalone Web Page’ button. The Markdown file will then be rendered as a standalone Web page with it’s own URL that can then be copied and shared.
 
-![Docsify-This Web Page Builder](images/docsify-this-web-page-builder.jpg ':class=image-75-border')  
-_Figure 1. Docsify-This Web Page Builder_
-
 <img src="images/docsify-this-web-page-builder.jpg" width="2880" height="2158" class="image-75-border">
-
 <em> Figure 1. Docsify-This Web Page Builder </em>
 
 ### Example Docsify-This URL
