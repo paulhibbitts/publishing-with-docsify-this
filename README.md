@@ -265,7 +265,7 @@ url=https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhib
 
 With the Canvas LMS it is also possible to use an [external web page as content within a course Module](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-add-an-external-URL-as-a-module-item/ta-p/967).
 
-<img src="images/docsify-this-module.jpg" width="910" height="800" class="image-border" alt="Docsify-This Canvas LMS Module"><br>
+<img src="images/docsify-this-module.jpg" width="910" height="500" class="image-border" alt="Docsify-This Canvas LMS Module"><br>
 <figcaption><em>Figure 10. Docsify-This External URL with Page Table of Contents (used as a Canvas LMS Module), for example <a href="https://canvas.sfu.ca/courses/76289/modules/items/2816273">https://canvas.sfu.ca/courses/76289/modules/items/2816273</a></em></figcaption>
 
 ```html
