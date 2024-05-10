@@ -101,6 +101,8 @@ The visual appearance of any Markdown file displayed by Docsify-This can be alte
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&font-family=Open%20Sans,sans-serif
 ```
 
+The Docsify-This Web Page Builder provides a point-and-click interface to style Web pages using these same URL parameters.
+
 #### Markdown CSS Classes
 
 If you can edit the Markdown file that is displayed by Docsify-This the visual appearance can be further altered by using a set of provided [Markdown CSS Classes](https://docsify-this.net/#/?id=supported-markdown-css-classes). For example:  
