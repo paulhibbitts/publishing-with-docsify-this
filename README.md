@@ -69,6 +69,9 @@ _Being open source, you can also host your own Docsify-This instance, with the p
 
 To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter the URL for an online Markdown file and tap the ‘Publish as Standalone Web Page’ button. The Markdown file will then be rendered as a standalone Web page with it’s own URL that can then be copied and shared.
 
+![Docsify-This Web Page Builder](images/docsify-this-web-page-builder.jpg ':class=image-border')  
+_Figure 1. Docsify-This Web Page Builder_
+
 <img src="images/docsify-this-web-page-builder.jpg" width="910" height="683" class="image-border" alt="Docsify-This Web Page Builder"><br>
 <figcaption><em>Figure 1. Docsify-This Web Page Builder</em></figcaption>
 
