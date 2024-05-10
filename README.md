@@ -72,6 +72,9 @@ To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter 
 ![Docsify-This Web Page Builder](images/docsify-this-web-page-builder.jpg ':class=image-border')  
 _Figure 1. Docsify-This Web Page Builder_
 
+<img src="images/docsify-this-web-page-builder.jpg" width="100%" height="683" class="image-border" alt="Docsify-This Web Page Builder"><br>
+<figcaption><em>Figure 1. Docsify-This Web Page Builder</em></figcaption>
+
 <img src="images/docsify-this-web-page-builder.jpg" width="910" height="683" class="image-border" alt="Docsify-This Web Page Builder"><br>
 <figcaption><em>Figure 1. Docsify-This Web Page Builder</em></figcaption>
 
