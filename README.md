@@ -217,7 +217,7 @@ Many LMSs, including Canvas and Moodle, have the ability to include external URL
 
 <img src="images/docsify-this-page.jpg" width="910" height="682" class="image-border" alt="Docsify-This Module"><br>
 
-_Figure 9. Docsify-This External URL within Canvas LMS (used with the Redirect Tool), for example https://canvas.sfu.ca/courses/76289/external_tools/36154">https://canvas.sfu.ca/courses/76289/external_tools/36154_
+_Figure 9. Docsify-This External URL within Canvas LMS (used with the Redirect Tool), for example https://canvas.sfu.ca/courses/76289/external_tools/36154_
 
 <em>Figure 9. Docsify-This External URL within Canvas LMS (used with the Redirect Tool), for example <a href="https://canvas.sfu.ca/courses/76289/external_tools/36154">https://canvas.sfu.ca/courses/76289/external_tools/36154</a></em>
 
