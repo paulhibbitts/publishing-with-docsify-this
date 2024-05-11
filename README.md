@@ -216,7 +216,7 @@ The URL of a Markdown file rendered by Docsify-This can also be included inside 
 Many LMSs, including Canvas and Moodle, have the ability to include external URLs in their course navigation menus. For example, with the Canvas LMS you would use the [Redirect Tool](https://help.canvas.yale.edu/m/55452/l/914676-creating-a-custom-link-in-your-course-navigation-using-the-redirect-tool) to display Docsify-This web pages.
 
 ![Docsify-This Module](images/docsify-this-page.jpg ':class=image-75-border')  
-_Figure 4. Docsify-This External URL within Canvas LMS (used with the Redirect Tool), for example [https://canvas.sfu.ca/courses/76289/external_tools/36154](https://canvas.sfu.ca/courses/76289/external_tools/36154)_
+_Figure 4. Docsify-This External URL within Canvas LMS (used with the Redirect Tool), for example [https://canvas.sfu.ca/courses/76289/external_tools/36154](https://canvas.sfu.ca/courses/76289/external_tools/36154 ':class=url-word-break')_
 
 ```html
 url=https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages/main&homepage=resources.md&edit-link=https://github.com/paulhibbitts/cmpt-363-222-pages/blob/main/resources.md&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&hide-credits=true
