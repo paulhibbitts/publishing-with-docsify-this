@@ -347,7 +347,7 @@ As a distributed version control system, Git also support collaboration with mul
 ![Distributed Version Control](images/distributed.png ':class=image-75-border')  
 _Figure 12. Distributed Version Control (source: https://git-scm.com)_
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/local.png" alt="Local Version Control" class="image-75">
+<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/distributed.png" alt="Local Version Control" class="image-75">
 <em>Figure 11. Local Version Control (source: <a href="https://git-scm.com">https://git-scm.com</a>)</em>
 
 ### GitHub
