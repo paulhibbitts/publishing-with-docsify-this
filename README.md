@@ -340,6 +340,9 @@ Version control supports the management of changes, called revisions, to files..
 ![Local Version Control](images/local.png ':class=image-75')  
 _Figure 11. Local Version Control (source: https://git-scm.com)_
 
+<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/local.png" alt="Local Version Control" class="image-border"><br>
+<em>Figure 11. Local Version Control (source: <a href="https://git-scm.com">https://git-scm.com</a>)</em>
+
 #### Collaboration
 
 As a distributed version control system, Git also support collaboration with multiple contributors.
@@ -347,7 +350,7 @@ As a distributed version control system, Git also support collaboration with mul
 ![Distributed Version Control](images/distributed.png ':class=image-border')  
 _Figure 12. Distributed Version Control (source: https://git-scm.com)_
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/distributed.png" alt="Distributed Version Control" class="image-border">
+<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/distributed.png" alt="Distributed Version Control" class="image-border"><br>
 <em>Figure 12. Distributed Version Control (source: <a href="https://git-scm.com">https://git-scm.com</a>)</em>
 
 ### GitHub
@@ -370,7 +373,7 @@ _Figure 13. GitHub Markdown File_
 ![GitHub Desktop](images/github-desktop-screenshot-mac.jpg ':class=image-border')  
 _Figure 14. GitHub Desktop Mac (source: https://desktop.github.com)_
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/github-desktop-screenshot-mac.jpg" alt="GitHub Desktop" class="image-border">
+<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/github-desktop-screenshot-mac.jpg" alt="GitHub Desktop" class="image-border"><br>
 <em>Figure 14. GitHub Desktop Mac (source: <a href="https://git-scm.com">https://git-scm.com</a>)</em>
 
 ### Docsify-This + GitHub or Codeberg Markdown Files 
@@ -399,7 +402,7 @@ _Figure 15. Docsify-This + GitHub Markdown Files Workflow_
 ![Docsify-This + Webserver Markdown Files_](images/docsify-this-webserver.jpg ':class=image-border')  
 _Figure 16. Docsify-This + Webserver Markdown Files_
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/docsify-this-webserver.jpg" alt="Docsify-This + Webserver Markdown Files" class="image-border">
+<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/docsify-this-webserver.jpg" alt="Docsify-This + Webserver Markdown Files" class="image-border"><br>
 <em>Figure 16. Docsify-This + Webserver Markdown Files</em>
 
 ## Additional Resources
