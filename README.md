@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/pawel-czerwinski-EIfU0IUqZw8-unsplash.jpg" width="910" height="250" class="banner-image">
 
-![](images/pawel-czerwinski-EIfU0IUqZw8-unsplash.jpg ':class=banner-image :no-zoom')
-
 # Markdown Publishing with Docsify&#8288;&#8211;&#8288;This
 
 An introduction to Markdown publishing using the open source [Docsify-This.net](https://docsify-this.net/) project.
@@ -118,8 +116,6 @@ If you can edit the Markdown file that is displayed by Docsify-This the visual a
 ```
 
 **banner-image**  
-
-![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image :no-zoom')
 
 <img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/12650723674_d5c85af332_k.jpg" width="910" height="250" class="banner-image" alt="UX - User Experience">
 
