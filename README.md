@@ -72,7 +72,7 @@ To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter 
 ![Docsify-This Web Page Builder](images/docsify-this-web-page-builder.jpg ':class=image-border')  
 _Figure 1. Docsify-This Web Page Builder_
 
-<p><img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/imagesdocsify-this-web-page-builder.jpg" width="910" height="682" class="markdown-section image-border" alt="Docsify-This Web Page Builder"></p>>
+<p><img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/imagesdocsify-this-web-page-builder.jpg" width="910" height="682" class="markdown-section image-border" alt="Docsify-This Web Page Builder"></p>
 <figcaption><em>Figure 1. Docsify-This Web Page Builder</em></figcaption>
 
 ### Example Docsify-This URL Created by Web Page Builder
