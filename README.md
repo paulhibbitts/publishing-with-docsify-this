@@ -1,6 +1,6 @@
 # Markdown Publishing with Docsify&#8288;&#8211;&#8288;This
 
-A guide to Markdown publishing using the open source [Docsify-This.net](https://docsify-this.net/) project.
+A detailed guide to Markdown publishing using the open source [Docsify-This.net](https://docsify-this.net/) project.
 
 ## Markdown
 
@@ -67,7 +67,7 @@ _Being open source, you can also host your own Docsify-This instance, with the p
 
 To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter the URL for an online Markdown file and tap the ‘Publish as Standalone Web Page’ button. The Markdown file will then be rendered as a standalone Web page with it’s own URL that can then be copied and shared.
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/docsify-this-web-page-builder.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This Web Page Builder"><br>
+<img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/docsify-this-web-page-builder.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This Web Page Builder"><br>
 <em>Figure 1. Docsify-This Web Page Builder</em>
 
 ### Example Docsify-This URL Created by Web Page Builder
@@ -76,7 +76,7 @@ To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter 
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md
 ```
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/docsify-this-rendered-markdown-file.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This Rendered Markdown File"><br>
+<img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/docsify-this-rendered-markdown-file.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This Rendered Markdown File"><br>
 <em>Figure 2. Docsify-This Rendered Markdown File</em>
 
 Docsify-This rendered Web pages are also perfect for embedding, with the ability to visually style Docsify-This pages to the destination platform.
@@ -115,10 +115,10 @@ If you can edit the Markdown file that is displayed by Docsify-This the visual a
 
 **banner-image**  
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/12650723674_d5c85af332_k.jpg" width="910" height="250" class="banner-image" alt="UX - User Experience">
+<img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/12650723674_d5c85af332_k.jpg" width="910" height="250" class="banner-image" alt="UX - User Experience">
 
 ```markdown
-![UX - User Experience](https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/12650723674_d5c85af332_k.jpg ':class=banner-image')
+![UX - User Experience](https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 ```
 
 #### Custom Markdown CSS Classes
@@ -196,11 +196,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 In additition to generating standalone Web pages and sites, you can embed Docsify-This web pages using iFrames in almost any platform. URL parameters can also be used to match each destination platform better visually.
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/docsify-this-iframe.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This iFrame"><br>
+<img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/docsify-this-iframe.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This iFrame"><br>
 <em>Figure 3. Docsify-This iFrame (within the Canvas LMS Homepage), for example <a href="https://canvas.sfu.ca/courses/76289">https://canvas.sfu.ca/courses/76289</a></em>
 
 ```html
-<p><iframe style="overflow: hidden; border: 0px #ffffff none; margin-top: -26px; background: #ffffff;" src="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages/main&homepage=home.md&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&hide-credits=true" width="800px" height="950px" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe style="overflow: hidden; border: 0px #ffffff none; margin-top: -26px; background: #ffffff;" src="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/cmpt-363-222-pages/main&homepage=home.md&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&hide-credits=true" width="800px" height="950px" allowfullscreen="allowfullscreen"></iframe></p>
 ```
 
 As shown above, with the Canvas LMS a Canvas Page can be set as the course Homepage, and then an iFrame can be used for the content of that page. For more details, view [How do I set a Front Page in a course?](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-set-a-Front-Page-in-a-course/ta-p/797) and [Embed content in Canvas](https://www.howtocanvas.com/create-amazing-pages-in-canvas/embedding-content).
@@ -213,23 +213,23 @@ The URL of a Markdown file rendered by Docsify-This can also be included inside 
 
 Many LMSs, including Canvas and Moodle, have the ability to include external URLs in their course navigation menus. For example, with the Canvas LMS you would use the [Redirect Tool](https://help.canvas.yale.edu/m/55452/l/914676-creating-a-custom-link-in-your-course-navigation-using-the-redirect-tool) to display Docsify-This web pages.
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/docsify-this-page.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This Module"><br>
+<img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/docsify-this-page.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This Module"><br>
 <em>Figure 4. Docsify-This External URL within Canvas LMS (used with the Redirect Tool), for example <a href="https://canvas.sfu.ca/courses/76289/external_tools/36154">https://canvas.sfu.ca/courses/76289/external_tools/36154</a></em>
 
 ```html
-url=https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages/main&homepage=resources.md&edit-link=https://github.com/paulhibbitts/cmpt-363-222-pages/blob/main/resources.md&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&hide-credits=true
+url=https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/cmpt-363-222-pages/main&homepage=resources.md&edit-link=https://github.com/hibbitts-design/cmpt-363-222-pages/blob/main/resources.md&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&hide-credits=true
 ```
 
 With the Canvas LMS it is also possible to use an [external web page as content within a course Module](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-add-an-external-URL-as-a-module-item/ta-p/967).
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/docsify-this-module.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This Canvas LMS Module"><br>
+<img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/docsify-this-module.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This Canvas LMS Module"><br>
 <em>Figure 5. Docsify-This External URL with Page Table of Contents (used as a Canvas LMS Module), for example <a href="https://canvas.sfu.ca/courses/76289/modules/items/2816273">https://canvas.sfu.ca/courses/76289/modules/items/2816273</a></em>
 
 ```html
-https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages/main&homepage=week-01.md&toc-narrow=true&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&hide-credits=true
+https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-design/cmpt-363-222-pages/main&homepage=week-01.md&toc-narrow=true&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&hide-credits=true
 ```
 
-### Docsify-This Page Markdown Templates
+### Docsify-This Markdown Page Templates
 
 The following example Markdown templates are available which can be cloned/forked on GitHub or imported into Codeberg. Templates can also be downloaded and hosted just about anywhere online. 
 
@@ -247,29 +247,29 @@ To use these templates you would generally do the following (specific instructio
 
 Now that the template files are located on your own GitHub account, modify their content to fit your needs.  
 
-<h4><a href="https://github.com/hibbitts-design/docsify-this-one-page-article">Docsify-This One Page Article Templates</a></h4> 
+<h4><a href="https://github.com/hibbitts-design/docsify-this-one-page-article">Docsify-This One Page Article Template</a></h4> 
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/docsify-this-one-page-article.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This One Page Article Template"><br>
+<img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/docsify-this-one-page-article.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This One Page Article Template"><br>
 <em>Figure 6. Docsify-This One Page Article Template, for example the Markdown file <a href="https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md">home.md</a> and displayed by Docsify-This as <a href="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3">https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3</a></em>
 
 <h4><a href="https://github.com/hibbitts-design/docsify-this-one-page-course">Docsify-This One Page Course Template</a></h4>
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/docsify-this-one-page-course.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This One Page Course Template"><br>
+<img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/docsify-this-one-page-course.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This One Page Course Template"><br>
 <em>Figure 7. Docsify-This One Page Course Template, for example the Markdown file <a href="https://github.com/hibbitts-design/docsify-this-one-page-course/blob/main/home.md">home.md</a> and displayed by Docsify-This as <a href="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-course/main&homepage=home.md&toc=true">https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-course/main&homepage=home.md&toc=true</a></em>
 
 <h4><a href="https://github.com/hibbitts-design/docsify-this-multiple-page-site">Docsify-This Multiple Page Site Template</a></h4>
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/docsify-this-multiple-page-site.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This Multiple Page Site"><br>
+<img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/docsify-this-multiple-page-site.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This Multiple Page Site"><br>
 <em>Figure 8. Docsify-This Multiple Page Site, for example the Markdown file <a href="https://github.com/hibbitts-design/docsify-this-multiple-page-site/blob/main/home.md">home.md</a> and displayed by Docsify-This as <a href="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-multiple-page-site/main&homepage=home.md">https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-multiple-page-site/main&homepage=home.md</a></em>
 
 <h4><a href="https://github.com/hibbitts-design/docsify-this-multiple-page-course-site">Docsify-This Multiple Page Course Site Template</a></h4>
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/docsify-this-multiple-page-course-site.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This Multiple Page Course Site Template"><br>
+<img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/docsify-this-multiple-page-course-site.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This Multiple Page Course Site Template"><br>
 <em>Figure 9. Docsify-This Multiple Page Site, for example the Markdown file <a href="https://github.com/hibbitts-design/docsify-this-multiple-page-site/blob/main/home.md">home.md</a>, including the use of a custom Docsify a href="https://github.com/hibbitts-design/docsify-this-multiple-page-course-site/blob/main/_sidebar.md">Sidebar</a> file, and displayed by Docsify-This as <a href="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-multiple-page-course-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&hide-credits=true&browser-tab-title=CPT-363">https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-multiple-page-course-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&hide-credits=true&browser-tab-title=CPT-363</a></em>
 
 <h4><a href="https://github.com/hibbitts-design/docsify-this-lms-content-pages">Docsify-This LMS Content Pages Template</a></h4>
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/docsify-this-lms-content-pages.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This LMS Content Pages Template"><br>
+<img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/docsify-this-lms-content-pages.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This LMS Content Pages Template"><br>
 <em>Figure 10. Docsify-This LMS Content Pages Template, including such embeddable pages as a <a href="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=home.md&edit-link=https://github.com/hibbitts-design/docsify-this-lms-content-pages/blob/main/home.md">home page</a>, <a href="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=module-01.md&edit-link=https://github.com/hibbitts-design/docsify-this-lms-content-pages/blob/main/module-01.md">weekly module</a>, <a href="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=topics.md&edit-link=https://github.com/hibbitts-design/docsify-this-lms-content-pages/blob/main/topics.md">topics</a> and <a href="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=index.md">more</a></em>
 
 ## Hosting Markdown Files
@@ -277,19 +277,19 @@ There are multiple ways to get a raw Markdown file available online, here are th
 
 ### GitHub or Codeberg 
 1. Signup for a [GitHub](https://github.com) or [Codeberg](https://codeberg.org) account
-2. Make a new repository, and create or upload your Markdown file
+2. Make a new repository, and create or upload your Markdown file with a filename ending with `.md` (e.g. `myfile.md`)
 3. View the Markdown file, and copy/paste that URL into the Docsify-This **Markdown File URL** field
 
 ### Gist (GitHub Gists)
 1. Signup for a [GitHub](https://github.com) account
 1. Create a gist with your Markdown file at https://gist.github.com
-2. Enter a filename ending with `.md` (e.g. `myfile.md`)
+2. Enter a filename ending with `.md` (e.g. `mygist.md`)
 3. Choose **Create public gist** and tap on that button
 4. Tap on **Raw** button in the upper right of your Gist field and copy/paste that URL into the Docsify-This **Markdown File URL** field
 
 ### Personal or Organizational Website
 1. Obtain login information for your Webserver
-2. Upload the Markdown file to your Webserver
+2. Upload the Markdown file to your Webserver with a filename ending with `.md` (e.g. `myfile.md`)
 3. Navigate to the location of that file, view the contents in your Browser, and copy/paste that URL into the Docsify-This **Markdown File URL** field
 
 ## Leveraging Git and GitHub
@@ -302,14 +302,14 @@ Git is a free and open source distributed version control system,  originally cr
 
 Version control supports the management of changes, called revisions, to files... especially useful for pure text files such as those used by Docsify-This.
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/local.png" alt="Local Version Control" class="responsive-border"><br>
+<img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/local.png" alt="Local Version Control" class="responsive-border"><br>
 <em>Figure 11. Local Version Control (source: <a href="https://git-scm.com">https://git-scm.com</a>)</em>
 
 #### Collaboration
 
 As a distributed version control system, Git also support collaboration with multiple contributors.
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/distributed.png" alt="Distributed Version Control" class="responsive-border"><br>
+<img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/distributed.png" alt="Distributed Version Control" class="responsive-border"><br>
 <em>Figure 12. Distributed Version Control (source: <a href="https://git-scm.com">https://git-scm.com</a>)</em>
 
 ### GitHub
@@ -318,7 +318,7 @@ GitHub and Codeberg are examples of online Git services, providing point-and-cli
 
 In addition to supporting the hosting of Git repositories, online editing of repository content such as Markdown files (using the filename extension .md) is also provided.
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/github-markdown-file.jpg" alt="Local Version Control" class="responsive-border">
+<img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/github-markdown-file.jpg" alt="Local Version Control" class="responsive-border">
 <em>Figure 13. GitHub Markdown File</em>
 
 ### GitHub Desktop
@@ -326,7 +326,7 @@ In addition to supporting the hosting of Git repositories, online editing of rep
 * Locally Store Git/GitHub Repositories  
 * **Push** and **Pull** Repository Changes  
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/github-desktop-screenshot-mac.jpg" alt="GitHub Desktop" class="responsive-border"><br>
+<img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/github-desktop-screenshot-mac.jpg" alt="GitHub Desktop" class="responsive-border"><br>
 <em>Figure 14. GitHub Desktop Mac (source: <a href="https://git-scm.com">https://git-scm.com</a>)</em>
 
 ### Docsify-This + GitHub or Codeberg Markdown Files 
@@ -346,10 +346,10 @@ Once your Docsify-This Markdown files are synced (i.e. cloned) to your desktop v
 
 Using GitHub Desktop you can preview any changes and then commit those changes back to the repository. VSCode can also be used alone to both sync and editing files.
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/docsify-this-github.jpg" alt="Docsify-This + GitHub Markdown Files" class="responsive-border">
+<img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/docsify-this-github.jpg" alt="Docsify-This + GitHub Markdown Files" class="responsive-border">
 <em>Figure 15. Docsify-This + GitHub Markdown Files Workflow</em>
 
-<img src="https://raw.githubusercontent.com/paulhibbitts/publishing-with-docsify-this/main/images/docsify-this-webserver.jpg" alt="Docsify-This + Webserver Markdown Files" class="responsive-border"><br>
+<img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/docsify-this-webserver.jpg" alt="Docsify-This + Webserver Markdown Files" class="responsive-border"><br>
 <em>Figure 16. Docsify-This + Webserver Markdown Files</em>
 
 ## Additional Resources
